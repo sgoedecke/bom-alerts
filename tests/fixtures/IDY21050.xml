@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="1.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.bom.gov.au/schema/v1.7/product.xsd">
+    <amoc>
+        <source>
+            <sender>Australian Government Bureau of Meteorology</sender>
+            <region>Head Office (Bureau National Operations Centre)</region>
+            <office>BNOC</office>
+            <copyright>http://www.bom.gov.au/other/copyright.shtml</copyright>
+            <disclaimer>http://www.bom.gov.au/other/disclaimer.shtml</disclaimer>
+        </source>
+        <identifier>IDY21050</identifier>
+        <issue-time-utc>2026-10-10T05:48:40Z</issue-time-utc>
+        <issue-time-local tz="EDT">2026-10-10T16:48:40+11:00</issue-time-local>
+        <sent-time>2026-10-10T05:48:40Z</sent-time>
+        <expiry-time>2026-10-10T17:48:40Z</expiry-time>
+        <validity-bgn-time-local tz="EDT">2026-10-10T16:48:40+11:00</validity-bgn-time-local>
+        <validity-end-time-local tz="EDT">2026-10-11T03:48:33+11:00</validity-end-time-local>
+        <status>O</status>
+        <service>WSM</service>
+        <sub-service>WOW</sub-service>
+        <product-type>W</product-type>
+        <phase>NEW</phase>
+    </amoc>
+    <warning>
+        <warning-info>
+            <text type="warning_title">GALE WARNING 6 FOR WESTERN, SOUTHERN AND SOUTHEASTERN AREAS</text>
+            <text type="preamble">Wind and wave forecasts are averages. Wind gusts can be 40 per cent stronger than the forecast, and stronger still in squalls and thunderstorms. Maximum waves can be twice the forecast height.</text>
+            <text type="warning_next_issue">1300 UTC 10 October 2026</text>
+        </warning-info>
+        <!---->
+        <!--locale[AUS_EV006, allow-output=yes]-->
+        <!--hazards-exist="no" non-warning-info-elements-exist="yes"-->
+        <area aac="AUS_FA001" description="Head Office" type="region">
+            <!--===================-->
+            <!--NON-HAZARD ELEMENTS-->
+            <!--===================-->
+            <!--locale[AUS_EV006]/period[variable]-->
+            <!--non-warning-info-elements-exist='yes'-->
+            <forecast-period start-time-local="2026-10-11T03:48:34+11:00" end-time-local="2026-10-11T03:48:34+11:00" start-time-utc="2026-10-10T16:48:34Z" end-time-utc="2026-10-10T16:48:34Z">
+                <element type="locale">METAREA 10</element>
+                <element type="inmarsat_code">40:2:1:04:70S100E35060:01:00</element>
+                <element type="nautical_call_urgency_level">SECURITE</element>
+                <element type="time">100600UTC</element>
+                <text type="synoptic_situation">Vigorous flow associated with trough 41S137E 47S140E 50S140E. Forecast 44S143E 47S145E 53S145E at 101200UTC, 46S149E 50S151E 55S151E 55S151E at 101800UTC and 51S155E 54S158E 59S158E at 110000UTC, then east of area thereafter.</text>
+                <text type="area_descript">Bounded by 45S129E 39S133E 45S151E 54S161E 60S156E 56S148E 50S129E 45S129E.</text>
+                <text type="forecast">
+                    <p>Westerly quarter winds within 660nm west of trough, shifting northwesterly quarter within 180nm east of trough. Wind speeds 34/47 knots. Winds easing below 34 knots by 110600UTC. Very rough to high seas. Moderate to heavy swell.</p>
+                </text>
+            </forecast-period>
+        </area>
+        <!---->
+        <!--locale[, allow-output=yes]-->
+        <!--hazards-exist="no" non-warning-info-elements-exist="no"-->
+    </warning>
+</product>
