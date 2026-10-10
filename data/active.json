@@ -1,4 +1,21 @@
 {
+  "IDN20400": {
+    "areas": [
+      "Batemans Coast: Ulladulla to Montague Island",
+      "Eden Coast: Montague Island to Gabo Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDN20400",
+    "issued": "2026-10-10T17:33:31Z",
+    "service": "WSM",
+    "started": "2026-10-10T22:33:48Z",
+    "state": "NSW",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for New South Wales"
+  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
