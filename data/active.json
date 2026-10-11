@@ -32,6 +32,22 @@
     "sub_service": "WSW",
     "title": "Severe Weather Warning"
   },
+  "IDN22000": {
+    "areas": [
+      "Greater Sydney Region"
+    ],
+    "hazards": [
+      "Extreme Fire Danger"
+    ],
+    "headline": "",
+    "id": "IDN22000",
+    "issued": "2026-10-11T05:09:56Z",
+    "service": "WSF",
+    "started": "2026-10-11T14:03:51Z",
+    "state": "NSW",
+    "sub_service": "WFW",
+    "title": "Fire Weather Warning"
+  },
   "IDS20201": {
     "areas": [
       "Lower South East Coast: Cape Jaffa to SA-VIC Border"
