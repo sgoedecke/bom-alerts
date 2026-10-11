@@ -16,6 +16,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN21037": {
+    "areas": [
+      "Snowy Mountains"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging winds developing across parts of the Snowy Mountains on Monday",
+    "id": "IDN21037",
+    "issued": "2026-10-11T11:39:39Z",
+    "service": "WSW",
+    "started": "2026-10-11T14:03:51Z",
+    "state": "NSW",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDS20201": {
     "areas": [
       "Lower South East Coast: Cape Jaffa to SA-VIC Border"
