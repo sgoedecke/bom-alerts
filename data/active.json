@@ -16,6 +16,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN29000": {
+    "areas": [
+      "Snowy Mountains"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDN29000",
+    "issued": "2026-10-12T11:26:31Z",
+    "service": "WSP",
+    "started": "2026-10-12T16:45:07Z",
+    "state": "NSW",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDS20201": {
     "areas": [
       "Lower South East Coast: Cape Jaffa to SA-VIC Border"
