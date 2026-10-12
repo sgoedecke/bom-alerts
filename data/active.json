@@ -48,6 +48,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
+  "IDS20242": {
+    "areas": [
+      "North East Pastoral"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDS20242",
+    "issued": "2026-10-12T12:08:04Z",
+    "service": "WSP",
+    "started": "2026-10-12T16:45:07Z",
+    "state": "SA",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
