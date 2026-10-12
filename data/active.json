@@ -96,24 +96,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDV21037": {
-    "areas": [
-      "North East",
-      "West and South Gippsland",
-      "East Gippsland"
-    ],
-    "hazards": [
-      "DAMAGING WINDS"
-    ],
-    "headline": "Damaging winds developing over parts of eastern Victoria on Monday.",
-    "id": "IDV21037",
-    "issued": "2026-10-11T11:43:36Z",
-    "service": "WSW",
-    "started": "2026-10-11T14:03:51Z",
-    "state": "VIC",
-    "sub_service": "WSW",
-    "title": "Severe Weather Warning"
-  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
