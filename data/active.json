@@ -94,6 +94,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT29000": {
+    "areas": [
+      "North West Coast",
+      "Midlands",
+      "Upper Derwent Valley",
+      "South East"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDT29000",
+    "issued": "2026-10-12T11:50:31Z",
+    "service": "WSP",
+    "started": "2026-10-12T16:45:07Z",
+    "state": "TAS",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDT38200": {
     "areas": [
       "Central Plateau",
