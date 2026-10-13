@@ -116,23 +116,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDT38200": {
-    "areas": [
-      "Central Plateau",
-      "Western"
-    ],
-    "hazards": [
-      "snow"
-    ],
-    "headline": "",
-    "id": "IDT38200",
-    "issued": "2026-10-11T11:08:59Z",
-    "service": "WSP",
-    "started": "2026-10-11T14:03:51Z",
-    "state": "TAS",
-    "sub_service": "WBU",
-    "title": "Bush Walkers Weather Alert"
-  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
