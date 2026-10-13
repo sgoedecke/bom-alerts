@@ -97,6 +97,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT21037": {
+    "areas": [
+      "East Coast",
+      "South East",
+      "Western"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging winds on Tuesday over exposed southern coasts and islands.",
+    "id": "IDT21037",
+    "issued": "2026-10-12T21:44:44Z",
+    "service": "WSW",
+    "started": "2026-10-13T01:22:29Z",
+    "state": "TAS",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDT29000": {
     "areas": [
       "North West Coast",
