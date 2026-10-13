@@ -1,4 +1,21 @@
 {
+  "IDD21033": {
+    "areas": [
+      "Barkly",
+      "Simpson"
+    ],
+    "hazards": [
+      "DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL"
+    ],
+    "headline": "Severe thunderstorms continue throughout the evening.",
+    "id": "IDD21033",
+    "issued": "2026-10-13T14:49:39Z",
+    "service": "WSW",
+    "started": "2026-10-13T15:04:39Z",
+    "state": "NT",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDN20400": {
     "areas": [
       "Batemans Coast: Ulladulla to Montague Island",
