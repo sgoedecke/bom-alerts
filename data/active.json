@@ -100,6 +100,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV23000": {
+    "areas": [
+      "East Gippsland"
+    ],
+    "hazards": [
+      "Frost Warning"
+    ],
+    "headline": "",
+    "id": "IDV23000",
+    "issued": "2026-10-14T06:02:12Z",
+    "service": "WSP",
+    "started": "2026-10-14T12:53:50Z",
+    "state": "VIC",
+    "sub_service": "WFR",
+    "title": "Frost Warning"
+  },
   "IDV29000": {
     "areas": [
       "North Central",
