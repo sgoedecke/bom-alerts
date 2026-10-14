@@ -34,6 +34,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Queensland"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields",
+      "Central West",
+      "Channel Country",
+      "Maranoa and Warrego"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging winds in the central west.",
+    "id": "IDQ21033",
+    "issued": "2026-10-14T12:17:05Z",
+    "service": "WSW",
+    "started": "2026-10-14T12:53:50Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
