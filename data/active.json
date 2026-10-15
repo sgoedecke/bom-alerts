@@ -62,25 +62,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDW20100": {
-    "areas": [
-      "Leeuwin Coast: Cape Naturaliste to Walpole",
-      "Albany Coast: Walpole to Bremer Bay",
-      "Geraldton Coast: Kalbarri to Jurien Bay",
-      "Esperance Coast: Bremer Bay to Israelite Bay"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDW20100",
-    "issued": "2026-10-10T05:01:00Z",
-    "service": "WSM",
-    "started": "2026-10-10T09:41:19Z",
-    "state": "WA",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Western Australia"
-  },
   "IDY21000": {
     "areas": [
       "Head Office"
