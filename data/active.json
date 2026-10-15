@@ -15,25 +15,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDQ20085": {
-    "areas": [
-      "K'gari Coast: Sandy Cape to Double Island Point",
-      "Sunshine Coast Waters: Double Island Point to Cape Moreton",
-      "Moreton Bay",
-      "Gold Coast Waters: Cape Moreton to Point Danger"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDQ20085",
-    "issued": "2026-10-13T00:28:11Z",
-    "service": "WSM",
-    "started": "2026-10-13T01:22:29Z",
-    "state": "QLD",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Queensland"
-  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
