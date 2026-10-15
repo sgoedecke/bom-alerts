@@ -62,20 +62,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDY21020": {
-    "areas": [
-      "Head Office"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDY21020",
-    "issued": "2026-10-14T12:00:06Z",
-    "service": "WSM",
-    "started": "2026-10-14T12:53:50Z",
-    "state": "AUS",
-    "sub_service": "WOW",
-    "title": "GALE WARNING 3 FOR WESTERN AREA"
-  },
   "IDY21030": {
     "areas": [
       "Head Office"
