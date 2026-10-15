@@ -15,22 +15,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDS21033": {
-    "areas": [
-      "North West Pastoral"
-    ],
-    "hazards": [
-      "DAMAGING WINDS and LARGE HAILSTONES"
-    ],
-    "headline": "Severe thunderstorms are moving into the North West Pastoral this evening.",
-    "id": "IDS21033",
-    "issued": "2026-10-15T11:31:48Z",
-    "service": "WSW",
-    "started": "2026-10-15T12:40:27Z",
-    "state": "SA",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
