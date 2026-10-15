@@ -48,3 +48,4 @@
 {"detected": "2026-10-15T12:40:27Z", "event": "end", "id": "IDV23000", "issued": null, "reason": "removed", "service": "WSP", "started": "2026-10-14T12:53:50Z", "state": "VIC", "sub_service": "WFR", "title": "Frost Warning"}
 {"detected": "2026-10-15T12:40:27Z", "event": "end", "id": "IDV29000", "issued": null, "reason": "removed", "service": "WSP", "started": "2026-10-13T01:22:29Z", "state": "VIC", "sub_service": "WSG", "title": "Warning to Sheep Graziers"}
 {"detected": "2026-10-15T12:40:27Z", "event": "end", "id": "IDW20100", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-10-10T09:41:19Z", "state": "WA", "sub_service": "WMS", "title": "Marine Wind Warning Summary for Western Australia"}
+{"detected": "2026-10-15T12:40:27Z", "event": "end", "id": "IDY21000", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-10-13T15:04:39Z", "state": "AUS", "sub_service": "WOW", "title": "GALE WARNING 1 FOR SOUTHERN AREA"}
