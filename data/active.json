@@ -15,6 +15,24 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields",
+      "Central West",
+      "Maranoa and Warrego"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Heavy rainfall possible this morning in the northern Maranoa and Warrego",
+    "id": "IDQ21033",
+    "issued": "2026-10-16T21:09:16Z",
+    "service": "WSW",
+    "started": "2026-10-16T22:06:21Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
