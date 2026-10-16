@@ -15,22 +15,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDQ20002": {
-    "areas": [
-      "Brisbane"
-    ],
-    "hazards": [
-      "Road weather alert for slippery roads"
-    ],
-    "headline": "",
-    "id": "IDQ20002",
-    "issued": "2026-10-15T19:24:14Z",
-    "service": "WSP",
-    "started": "2026-10-15T22:20:45Z",
-    "state": "QLD",
-    "sub_service": "WRW",
-    "title": "Road Weather Alert for Brisbane"
-  },
   "IDT20100": {
     "areas": [
       "South East Coast: Tasman Island to South East Cape",
