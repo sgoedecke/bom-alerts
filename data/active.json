@@ -80,6 +80,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDW20100": {
+    "areas": [
+      "Albany Coast: Walpole to Bremer Bay"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDW20100",
+    "issued": "2026-10-16T17:01:00Z",
+    "service": "WSM",
+    "started": "2026-10-16T22:06:21Z",
+    "state": "WA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Western Australia"
+  },
   "IDY21000": {
     "areas": [
       "Head Office"
