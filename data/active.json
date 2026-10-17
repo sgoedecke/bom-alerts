@@ -17,36 +17,6 @@
     "sub_service": "WST",
     "title": "Severe Thunderstorm Warning"
   },
-  "IDT20100": {
-    "areas": [
-      "South East Coast: Tasman Island to South East Cape",
-      "South West Coast: South East Cape to Low Rocky Point",
-      "Far North West Coast: Sandy Cape to Stanley",
-      "Central North Coast: Stanley to Northern Tip of Flinders Island",
-      "Banks Strait and Franklin Sound",
-      "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point",
-      "Upper East Coast: St Helens Point to Wineglass Bay",
-      "Central West Coast: Low Rocky Point to Sandy Cape",
-      "Derwent Estuary",
-      "Frederick Henry Bay and Norfolk Bays",
-      "Storm Bay",
-      "Channel",
-      "South West Lakes",
-      "Lower East Coast: Wineglass Bay to Tasman Island"
-    ],
-    "hazards": [
-      "Gale Warning",
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDT20100",
-    "issued": "2026-10-10T05:05:00Z",
-    "service": "WSM",
-    "started": "2026-10-10T09:41:19Z",
-    "state": "TAS",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Tasmania"
-  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
