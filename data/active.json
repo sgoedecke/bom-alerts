@@ -17,23 +17,6 @@
     "sub_service": "WST",
     "title": "Severe Thunderstorm Warning"
   },
-  "IDV20600": {
-    "areas": [
-      "West Coast: SA-VIC Border to Cape Otway",
-      "Central Coast: Cape Otway to Wilsons Promontory"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDV20600",
-    "issued": "2026-10-10T05:15:00Z",
-    "service": "WSM",
-    "started": "2026-10-10T09:41:19Z",
-    "state": "VIC",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Victoria"
-  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
