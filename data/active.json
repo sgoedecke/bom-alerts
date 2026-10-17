@@ -61,20 +61,6 @@
     "sub_service": "WOW",
     "title": "GALE WARNING 2 FOR WESTERN AND SOUTHERN AREAS"
   },
-  "IDY21030": {
-    "areas": [
-      "Head Office"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDY21030",
-    "issued": "2026-10-14T12:01:17Z",
-    "service": "WSM",
-    "started": "2026-10-14T12:53:50Z",
-    "state": "AUS",
-    "sub_service": "WOW",
-    "title": "STORM FORCE WIND WARNING 4 FOR WESTERN AND SOUTHERN AREAS"
-  },
   "IDY21080": {
     "areas": [
       "Head Office"
