@@ -15,6 +15,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDV20600": {
+    "areas": [
+      "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDV20600",
+    "issued": "2026-10-19T11:00:00Z",
+    "service": "WSM",
+    "started": "2026-10-19T14:41:54Z",
+    "state": "VIC",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Victoria"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
