@@ -1,21 +1,4 @@
 {
-  "IDS20201": {
-    "areas": [
-      "Upper West Coast: Fowlers Bay to Elliston",
-      "Lower West Coast: Elliston to Cape Carnot"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDS20201",
-    "issued": "2026-10-18T11:00:00Z",
-    "service": "WSM",
-    "started": "2026-10-18T12:04:13Z",
-    "state": "SA",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for South Australia"
-  },
   "IDT20100": {
     "areas": [
       "Central West Coast: Low Rocky Point to Sandy Cape"
