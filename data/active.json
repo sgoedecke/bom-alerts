@@ -1,4 +1,20 @@
 {
+  "IDS20240": {
+    "areas": [
+      "Adelaide"
+    ],
+    "hazards": [
+      "Road weather alert for reduced visibility in fog"
+    ],
+    "headline": "",
+    "id": "IDS20240",
+    "issued": "2026-10-19T20:09:19Z",
+    "service": "WSP",
+    "started": "2026-10-19T22:54:25Z",
+    "state": "SA",
+    "sub_service": "WRW",
+    "title": "Road Weather Alert for Adelaide"
+  },
   "IDT20100": {
     "areas": [
       "Central West Coast: Low Rocky Point to Sandy Cape"
