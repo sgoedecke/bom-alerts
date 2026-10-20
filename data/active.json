@@ -1,4 +1,28 @@
 {
+  "IDQ20860": {
+    "areas": [
+      "Thomson and Barcoo Rivers and Cooper Creek",
+      "Barcoo River to Isisford",
+      "Barcoo River at Blackall",
+      "Cornish Creek at Bowen Downs",
+      "Thomson River at Longreach",
+      "Thomson River at Bogewong",
+      "Jordan Creek at Glencoe",
+      "Alice River at Barcaldine Weir",
+      "Barcoo River at Retreat",
+      "Cooper Creek at Windorah (Lignum Channel)",
+      "Cooper Creek at Nappa Merrie"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20860",
+    "issued": "2026-10-20T01:33:24Z",
+    "service": "HFW",
+    "started": "2026-10-20T12:44:25Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Barcoo River"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
