@@ -39,6 +39,23 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDT20100": {
+    "areas": [
+      "Upper East Coast: St Helens Point to Wineglass Bay",
+      "Lower East Coast: Wineglass Bay to Tasman Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDT20100",
+    "issued": "2026-10-20T21:13:26Z",
+    "service": "WSM",
+    "started": "2026-10-20T22:18:48Z",
+    "state": "TAS",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Tasmania"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
