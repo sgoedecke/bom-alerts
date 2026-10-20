@@ -56,6 +56,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT38100": {
+    "areas": [
+      "Upper Derwent Valley",
+      "South East"
+    ],
+    "hazards": [
+      "Road weather alert for reduced visibility in fog"
+    ],
+    "headline": "",
+    "id": "IDT38100",
+    "issued": "2026-10-20T21:07:13Z",
+    "service": "WSP",
+    "started": "2026-10-20T22:18:48Z",
+    "state": "TAS",
+    "sub_service": "WRW",
+    "title": "Road Weather Alert for Tasmania"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
