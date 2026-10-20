@@ -55,6 +55,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
+  "IDW21033": {
+    "areas": [
+      "North Interior",
+      "South Interior"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging wind gusts possible with thunderstorms about the interior.",
+    "id": "IDW21033",
+    "issued": "2026-10-20T10:43:52Z",
+    "service": "WSW",
+    "started": "2026-10-20T12:44:25Z",
+    "state": "WA",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDY21010": {
     "areas": [
       "Head Office"
