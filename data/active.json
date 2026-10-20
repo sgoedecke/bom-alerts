@@ -1,20 +1,4 @@
 {
-  "IDT20100": {
-    "areas": [
-      "Central West Coast: Low Rocky Point to Sandy Cape"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDT20100",
-    "issued": "2026-10-18T11:00:00Z",
-    "service": "WSM",
-    "started": "2026-10-18T12:04:13Z",
-    "state": "TAS",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Tasmania"
-  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
