@@ -23,22 +23,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDS21033": {
-    "areas": [
-      "North East Pastoral"
-    ],
-    "hazards": [
-      "HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms are impacting parts of the far east.",
-    "id": "IDS21033",
-    "issued": "2026-10-20T11:03:11Z",
-    "service": "WSW",
-    "started": "2026-10-20T12:44:25Z",
-    "state": "SA",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
