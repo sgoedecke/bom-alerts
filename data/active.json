@@ -1,4 +1,20 @@
 {
+  "IDN29000": {
+    "areas": [
+      "Northern Tablelands"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDN29000",
+    "issued": "2026-10-20T17:23:10Z",
+    "service": "WSP",
+    "started": "2026-10-20T22:18:48Z",
+    "state": "NSW",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDQ20860": {
     "areas": [
       "Thomson and Barcoo Rivers and Cooper Creek",
