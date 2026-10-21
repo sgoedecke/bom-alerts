@@ -15,6 +15,36 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
+  "IDQ20845": {
+    "areas": [
+      "Warrego River (QLD)",
+      "Warrego River to Charleville",
+      "Warrego River at Charleville",
+      "Langlo and Ward Rivers",
+      "Warrego River downstream of Charleville",
+      "Warrego River at Bakers Bend",
+      "Warrego River at Lochinvar",
+      "Hoganthulla Creek at Wetlands",
+      "Warrego River at Augathella",
+      "Nive River at Biddenham",
+      "Warrego River at The 27 Mile Garden",
+      "Bradley Creek at Raceview",
+      "Bradley Creek at Lower Bradleys",
+      "Ward River at Binnowee",
+      "Warrego River at Wyandra",
+      "Warrego River at Wallen",
+      "Warrego River at Cunnamulla Weir"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20845",
+    "issued": "2026-10-20T22:47:55Z",
+    "service": "HFW",
+    "started": "2026-10-21T12:56:49Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Warrego River (QLD)"
+  },
   "IDQ20860": {
     "areas": [
       "Thomson and Barcoo Rivers and Cooper Creek",
