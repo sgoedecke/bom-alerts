@@ -90,6 +90,26 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields",
+      "Central West",
+      "Maranoa and Warrego",
+      "Darling Downs and Granite Belt",
+      "Wide Bay and Burnett"
+    ],
+    "hazards": [
+      "DAMAGING WINDS and HEAVY RAINFALL"
+    ],
+    "headline": "Isolated severe thunderstorms are continuing over parts of central inland and southeast Queensland overnight.",
+    "id": "IDQ21033",
+    "issued": "2026-10-21T12:11:25Z",
+    "service": "WSW",
+    "started": "2026-10-21T12:56:49Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "Upper East Coast: St Helens Point to Wineglass Bay",
