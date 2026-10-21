@@ -1,4 +1,22 @@
 {
+  "IDN20400": {
+    "areas": [
+      "Macquarie Coast: Smoky Cape to Seal Rocks",
+      "Hunter Coast: Seal Rocks to Broken Bay",
+      "Batemans Coast: Ulladulla to Montague Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDN20400",
+    "issued": "2026-10-21T17:12:27Z",
+    "service": "WSM",
+    "started": "2026-10-21T22:22:55Z",
+    "state": "NSW",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for New South Wales"
+  },
   "IDN29000": {
     "areas": [
       "Northern Tablelands"
