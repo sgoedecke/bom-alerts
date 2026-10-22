@@ -92,23 +92,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDQ21035": {
-    "areas": [
-      "Greater Brisbane and Surrounds",
-      "Moreton Bay"
-    ],
-    "hazards": [
-      "INTENSE RAINFALL"
-    ],
-    "headline": "INTENSE RAINFALL CONTINUING THROUGH PARTS OF MORETON BAY.",
-    "id": "IDQ21035",
-    "issued": "2026-10-21T21:54:52Z",
-    "service": "WSW",
-    "started": "2026-10-21T22:22:55Z",
-    "state": "QLD",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning - Southeast Queensland"
-  },
   "IDT20100": {
     "areas": [
       "Upper East Coast: St Helens Point to Wineglass Bay",
