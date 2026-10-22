@@ -1,21 +1,4 @@
 {
-  "IDD21033": {
-    "areas": [
-      "Simpson",
-      "Lasseter"
-    ],
-    "hazards": [
-      "DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms in the southern Simpson this evening.",
-    "id": "IDD21033",
-    "issued": "2026-10-22T11:05:39Z",
-    "service": "WSW",
-    "started": "2026-10-22T12:59:09Z",
-    "state": "NT",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN20400": {
     "areas": [
       "Macquarie Coast: Smoky Cape to Seal Rocks",
