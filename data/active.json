@@ -77,6 +77,33 @@
     "sub_service": "WFL",
     "title": "Initial Flood Warning for the Maroochy River, Coochin Creek and Mooloolah River"
   },
+  "IDQ20800": {
+    "areas": [
+      "Upper Brisbane River",
+      "Stanley River to Somerset Dam",
+      "Stanley River at Woodford",
+      "Stanley River at Peachester",
+      "Kilcoy Creek at Kilcoy Weir (DS)",
+      "Stanley River at Somerset Dam",
+      "Cooyar Creek",
+      "Brisbane River at Devon Hills",
+      "Emu Creek at Boat Mountain",
+      "Maronghi Creek at Glendale",
+      "Brisbane River at Gregor Creek",
+      "Cressbrook Creek at Cressbrook Dam",
+      "Cressbrook Creek at Rosentreters Bridge",
+      "Brisbane River at Wivenhoe Dam HG"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20800",
+    "issued": "2026-10-22T05:25:54Z",
+    "service": "HFW",
+    "started": "2026-10-22T12:59:09Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Stanley River"
+  },
   "IDQ20845": {
     "areas": [
       "Warrego River (QLD)",
