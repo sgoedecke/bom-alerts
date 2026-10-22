@@ -244,6 +244,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Severe thunderstorms causing localised areas heavy rainfall continue near Rolleston.",
+    "id": "IDQ21033",
+    "issued": "2026-10-22T22:08:21Z",
+    "service": "WSW",
+    "started": "2026-10-22T22:21:26Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "Upper East Coast: St Helens Point to Wineglass Bay",
