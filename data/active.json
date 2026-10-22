@@ -129,6 +129,39 @@
     "sub_service": "WFL",
     "title": "Initial Moderate Flood Warning for Warrill Creek and Minor Flood Warning for the Bremer River"
   },
+  "IDQ20827": {
+    "areas": [
+      "Upper Condamine River",
+      "Condamine River to Warwick",
+      "Condamine River at Warwick",
+      "Condamine River downstream of Warwick to Oakey Creek",
+      "Condamine River at Pratten",
+      "Condamine River at Tummaville",
+      "Condamine River at Cecil Plains",
+      "Condamine River at The Head",
+      "Spring Creek at Killarney Alert",
+      "Condamine River at Killarney",
+      "Condamine River at Elbow Valley",
+      "Condamine River at Murrays Bridge",
+      "Connolly Dam",
+      "Sandy Creek at Leslie Dam HG",
+      "Glengallan Creek",
+      "Dalrymple Creek at Allora",
+      "Condamine River at Millbrook",
+      "Condamine River at Centenary Bridge",
+      "Oakey Creek at Jondaryan",
+      "Oakey Creek at Fairview"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20827",
+    "issued": "2026-10-22T04:04:41Z",
+    "service": "HFW",
+    "started": "2026-10-22T12:59:09Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Upper Condamine River"
+  },
   "IDQ20845": {
     "areas": [
       "Warrego River (QLD)",
