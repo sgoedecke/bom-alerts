@@ -358,6 +358,24 @@
     "sub_service": "WST",
     "title": "Severe Thunderstorm Warning"
   },
+  "IDT20100": {
+    "areas": [
+      "Far North West Coast: Sandy Cape to Stanley",
+      "Central North Coast: Stanley to Northern Tip of Flinders Island",
+      "Lower East Coast: Wineglass Bay to Tasman Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDT20100",
+    "issued": "2026-10-23T17:00:00Z",
+    "service": "WSM",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "TAS",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Tasmania"
+  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
