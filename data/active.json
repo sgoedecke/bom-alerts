@@ -17,6 +17,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN29000": {
+    "areas": [
+      "South Coast",
+      "Snowy Mountains"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDN29000",
+    "issued": "2026-10-23T19:46:05Z",
+    "service": "WSP",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "NSW",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDN36618": {
     "areas": [
       "Orara River",
