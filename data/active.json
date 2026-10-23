@@ -162,6 +162,38 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Upper Condamine River"
   },
+  "IDQ20835": {
+    "areas": [
+      "Macintyre and Weir Rivers",
+      "Weir River to Giddi Giddi South",
+      "Severn River at Ashford",
+      "Quart Pot Creek at Stanthorpe",
+      "Pike Creek at Glenlyon Dam HW",
+      "Dumaresq River at Bonshaw",
+      "Macintyre Brook at Barongarook",
+      "Macintyre Brook at Coolmunda Dam HG",
+      "Macintyre Brook at Inglewood Bridge",
+      "Macintyre Brook at Booba Sands",
+      "Macintyre River at New Kildonan",
+      "Macintyre River at Boggabilla",
+      "Macintyre River at Goondiwindi",
+      "Callandoon Creek at Oonavale",
+      "Macintyre River at Terrewah",
+      "Weir River at Gunn Bridge (DNRM)",
+      "Yarrill Creek at Medpark Bridge",
+      "Weir River at Jericho",
+      "Barwon River at Mungindi"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20835",
+    "issued": "2026-10-23T01:36:56Z",
+    "service": "HFW",
+    "started": "2026-10-23T12:38:20Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Flood Warning for the Weir River"
+  },
   "IDQ20845": {
     "areas": [
       "Warrego River (QLD)",
