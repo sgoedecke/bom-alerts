@@ -340,6 +340,24 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
+  "IDS21033": {
+    "areas": [
+      "North West Pastoral",
+      "West Coast",
+      "Eastern Eyre Peninsula"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "A line of severe thunderstorms is producing areas of heavy rainfall to the northeast of Ceduna.",
+    "id": "IDS21033",
+    "issued": "2026-10-23T21:05:41Z",
+    "service": "WSW",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "SA",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
