@@ -289,6 +289,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
+  "IDS20242": {
+    "areas": [
+      "West Coast",
+      "Lower Eyre Peninsula",
+      "Mount Lofty Ranges"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDS20242",
+    "issued": "2026-10-23T12:06:03Z",
+    "service": "WSP",
+    "started": "2026-10-23T12:38:20Z",
+    "state": "SA",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
