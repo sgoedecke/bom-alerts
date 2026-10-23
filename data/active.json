@@ -339,6 +339,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
+  "IDW29000": {
+    "areas": [
+      "South West",
+      "South Coastal",
+      "Great Southern"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDW29000",
+    "issued": "2026-10-23T08:03:53Z",
+    "service": "WSP",
+    "started": "2026-10-23T12:38:20Z",
+    "state": "WA",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDY21030": {
     "areas": [
       "Head Office"
