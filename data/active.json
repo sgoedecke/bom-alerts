@@ -17,6 +17,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN36618": {
+    "areas": [
+      "Orara River",
+      "Orara River at Coutts Crossing",
+      "Orara River at Karangi",
+      "Orara River at Glenreagh"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDN36618",
+    "issued": "2026-10-23T06:11:19Z",
+    "service": "HFW",
+    "started": "2026-10-23T12:38:20Z",
+    "state": "NSW",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Orara River"
+  },
   "IDQ20795": {
     "areas": [
       "Maroochy and Noosa Rivers",
