@@ -392,6 +392,28 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV29000": {
+    "areas": [
+      "Wimmera",
+      "North Central",
+      "North East",
+      "South West",
+      "Central",
+      "West and South Gippsland",
+      "East Gippsland"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDV29000",
+    "issued": "2026-10-23T19:43:05Z",
+    "service": "WSP",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "VIC",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
