@@ -51,6 +51,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Orara River"
   },
+  "IDQ20085": {
+    "areas": [
+      "Gold Coast Waters: Cape Moreton to Point Danger"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDQ20085",
+    "issued": "2026-10-23T17:00:00Z",
+    "service": "WSM",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "QLD",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Queensland"
+  },
   "IDQ20795": {
     "areas": [
       "Maroochy and Noosa Rivers",
