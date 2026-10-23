@@ -414,6 +414,28 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
+  "IDV30000": {
+    "areas": [
+      "Melbourne",
+      "Melbourne Inner Suburbs",
+      "Melbourne Western Suburbs",
+      "Melbourne Northern Suburbs",
+      "Melbourne Eastern Suburbs",
+      "Melbourne South Eastern Suburbs",
+      "The Dandenong Ranges"
+    ],
+    "hazards": [
+      "Road weather alert for slippery roads"
+    ],
+    "headline": "",
+    "id": "IDV30000",
+    "issued": "2026-10-23T17:42:00Z",
+    "service": "WSP",
+    "started": "2026-10-23T22:12:28Z",
+    "state": "VIC",
+    "sub_service": "WRW",
+    "title": "Road Weather Alert for Melbourne"
+  },
   "IDW20100": {
     "areas": [
       "Albany Coast: Walpole to Bremer Bay"
