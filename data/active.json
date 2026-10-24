@@ -34,23 +34,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDN36618": {
-    "areas": [
-      "Orara River",
-      "Orara River at Coutts Crossing",
-      "Orara River at Karangi",
-      "Orara River at Glenreagh"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDN36618",
-    "issued": "2026-10-23T06:11:19Z",
-    "service": "HFW",
-    "started": "2026-10-23T12:38:20Z",
-    "state": "NSW",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for the Orara River"
-  },
   "IDQ20085": {
     "areas": [
       "Gold Coast Waters: Cape Moreton to Point Danger"
