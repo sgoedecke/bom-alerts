@@ -178,6 +178,34 @@
     "sub_service": "WFL",
     "title": "Initial Flood Warning for the Weir River"
   },
+  "IDQ20840": {
+    "areas": [
+      "Moonie River",
+      "Moonie River to Flinton",
+      "Moonie River at Flinton Town",
+      "Moonie River downstream of Flinton",
+      "Moonie River at Nindigully",
+      "Moonie River at The Deep Crossing",
+      "Moonie River at Tartha",
+      "Moonie River at Southwood",
+      "Moonie River at Kinkora",
+      "Moonie River at Flinton",
+      "Teelba Creek at Teelba",
+      "Moonie River at Warrie Station",
+      "Moonie River at Nindigully TM",
+      "Moonie River at Thallon Bridge",
+      "Moonie River at Fenton"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20840",
+    "issued": "2026-10-24T03:59:48Z",
+    "service": "HFW",
+    "started": "2026-10-24T12:01:07Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Moonie River"
+  },
   "IDQ20845": {
     "areas": [
       "Warrego River (QLD)",
