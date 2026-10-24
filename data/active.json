@@ -50,6 +50,29 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Queensland"
   },
+  "IDQ20785": {
+    "areas": [
+      "Burrum and Cherwell Rivers Catchments",
+      "Burrum and Cherwell Rivers",
+      "Burrum River at Howard",
+      "Urangan Tide",
+      "Burrum River at Lenthalls Dam",
+      "Cherwell River at Railway Bridge",
+      "Cherwell River at Pacific Haven",
+      "Isis River at Bruce Highway",
+      "Gregory River at Burrum Highway",
+      "Elliott River at Dr Mays Crossing"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20785",
+    "issued": "2026-10-24T09:20:30Z",
+    "service": "HFW",
+    "started": "2026-10-24T12:01:07Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Burrum River"
+  },
   "IDQ20827": {
     "areas": [
       "Upper Condamine River",
