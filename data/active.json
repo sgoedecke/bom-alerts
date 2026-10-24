@@ -305,6 +305,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Thunderstorms likely to produce locally heavy rainfall.",
+    "id": "IDQ21033",
+    "issued": "2026-10-24T11:05:51Z",
+    "service": "WSW",
+    "started": "2026-10-24T12:01:07Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDS20201": {
     "areas": [
       "Far West Coast: WA-SA Border to Fowlers Bay",
