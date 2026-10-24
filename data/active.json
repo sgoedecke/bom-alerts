@@ -412,6 +412,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV21037": {
+    "areas": [
+      "North East",
+      "West and South Gippsland",
+      "East Gippsland"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging Winds over Alpine areas of Victoria this morning.",
+    "id": "IDV21037",
+    "issued": "2026-10-24T17:05:01Z",
+    "service": "WSW",
+    "started": "2026-10-24T21:37:23Z",
+    "state": "VIC",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDV29000": {
     "areas": [
       "Wimmera",
