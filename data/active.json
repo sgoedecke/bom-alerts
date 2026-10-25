@@ -387,37 +387,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDV36312": {
-    "areas": [
-      "Lower Yarra River - downstream of Warrandyte",
-      "Lower Yarra River - downstream of Merri Creek",
-      "Yarra River at Abbottsford (Johnston Street)",
-      "Mullum Mullum Creek at Doncaster East",
-      "Yarra River at Templestowe  (Fitzsimons Lane)",
-      "Yarra River at Heidelberg (Banksia Street)",
-      "Koonung Creek at Bulleen",
-      "Darebin Creek at Epping",
-      "Darebin Creek at Bundoora",
-      "Darebin Creek at Ivanhoe (Bell St)",
-      "Yarra River at Alphington (Rudder Grange)",
-      "Yarra River at Hawthorn",
-      "Gardiners Creek at Ashwood",
-      "Scotchmans Creek at Waverley Rd RB (Mt Waverley)",
-      "Gardiners Creek at Gardiner",
-      "Yarra River at Burnley",
-      "Moonee Ponds Creek at Jacana RB",
-      "Moonee Ponds Creek at Flemington (US Mt Alexander Rd)"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDV36312",
-    "issued": "2026-10-25T08:34:56Z",
-    "service": "HFW",
-    "started": "2026-10-25T12:34:56Z",
-    "state": "VIC",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for the Lower Yarra River - downstream of Warrandyte"
-  },
   "IDV36330": {
     "areas": [
       "Bunyip River",
