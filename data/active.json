@@ -324,6 +324,23 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Darling Downs and Granite Belt",
+      "Southeast Coast"
+    ],
+    "hazards": [
+      "DAMAGING WINDS and HEAVY RAINFALL"
+    ],
+    "headline": "Severe thunderstorms continuing about the Darling Downs and Granite Belt this evening.",
+    "id": "IDQ21033",
+    "issued": "2026-10-25T11:23:54Z",
+    "service": "WSW",
+    "started": "2026-10-25T12:34:56Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
