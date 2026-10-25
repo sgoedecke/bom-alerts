@@ -17,25 +17,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
-  "IDN21033": {
-    "areas": [
-      "Central West Slopes and Plains",
-      "Riverina",
-      "Upper Western",
-      "Lower Western"
-    ],
-    "hazards": [
-      "DAMAGING WINDS"
-    ],
-    "headline": "A line of severe storms is moving southeast producing damaging wind gusts in the west of the state.",
-    "id": "IDN21033",
-    "issued": "2026-10-24T21:36:19Z",
-    "service": "WSW",
-    "started": "2026-10-24T21:37:23Z",
-    "state": "NSW",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN29000": {
     "areas": [
       "South Coast",
