@@ -324,24 +324,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDS20242": {
-    "areas": [
-      "West Coast",
-      "Lower Eyre Peninsula",
-      "Mount Lofty Ranges"
-    ],
-    "hazards": [
-      "Warning to Sheep Graziers"
-    ],
-    "headline": "",
-    "id": "IDS20242",
-    "issued": "2026-10-23T12:06:03Z",
-    "service": "WSP",
-    "started": "2026-10-23T12:38:20Z",
-    "state": "SA",
-    "sub_service": "WSG",
-    "title": "Warning to Sheep Graziers"
-  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
