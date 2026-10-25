@@ -122,6 +122,40 @@
     "sub_service": "WFL",
     "title": "Moderate Flood Warning for the Bremer River and Warrill Creek"
   },
+  "IDQ20815": {
+    "areas": [
+      "Logan and Albert Rivers",
+      "Logan River to Yarrahappini",
+      "Albert River at Lumeah",
+      "Albert River at Bromfleet",
+      "Albert River at Wolffdene",
+      "Albert River at Beenleigh",
+      "Burnett Creek at Maroon Dam",
+      "Logan River at Forest Home",
+      "Logan River at Rathdowney",
+      "Christmas Creek at Tramway Lane",
+      "Logan River at Round Mountain",
+      "Logan River at Beaudesert",
+      "Teviot Brook at Boonah",
+      "Teviot Brook at Wyaralong Dam",
+      "Logan River at Yarrahappini",
+      "Logan River at Maclean Bridge",
+      "Logan River at Logan Village",
+      "Logan River at Waterford",
+      "Slacks Creek at Loganlea Road",
+      "Logan River at Parklands",
+      "Logan River at Eagleby"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20815",
+    "issued": "2026-10-25T21:00:02Z",
+    "service": "HFW",
+    "started": "2026-10-25T21:48:19Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Flood Warning for the Teviot Brook"
+  },
   "IDQ20827": {
     "areas": [
       "Upper Condamine River",
