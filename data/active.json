@@ -36,22 +36,6 @@
     "sub_service": "WST",
     "title": "Severe Thunderstorm Warning"
   },
-  "IDN21037": {
-    "areas": [
-      "Snowy Mountains"
-    ],
-    "hazards": [
-      "DAMAGING WINDS"
-    ],
-    "headline": "Damaging winds have developed over the high Alpine areas of the Snowy Mountains.",
-    "id": "IDN21037",
-    "issued": "2026-10-24T20:31:03Z",
-    "service": "WSW",
-    "started": "2026-10-24T21:37:23Z",
-    "state": "NSW",
-    "sub_service": "WSW",
-    "title": "Severe Weather Warning"
-  },
   "IDN29000": {
     "areas": [
       "South Coast",
