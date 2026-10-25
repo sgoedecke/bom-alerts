@@ -34,22 +34,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDQ20085": {
-    "areas": [
-      "Gold Coast Waters: Cape Moreton to Point Danger"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDQ20085",
-    "issued": "2026-10-23T17:00:00Z",
-    "service": "WSM",
-    "started": "2026-10-23T22:12:28Z",
-    "state": "QLD",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Queensland"
-  },
   "IDQ20785": {
     "areas": [
       "Burrum and Cherwell Rivers Catchments",
