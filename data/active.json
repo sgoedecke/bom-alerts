@@ -302,23 +302,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
-  "IDT38200": {
-    "areas": [
-      "Central Plateau",
-      "Western"
-    ],
-    "hazards": [
-      "snow"
-    ],
-    "headline": "",
-    "id": "IDT38200",
-    "issued": "2026-10-25T11:15:27Z",
-    "service": "WSP",
-    "started": "2026-10-25T12:34:56Z",
-    "state": "TAS",
-    "sub_service": "WBU",
-    "title": "Bush Walkers Weather Alert"
-  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
