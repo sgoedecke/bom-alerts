@@ -311,27 +311,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDQ21035": {
-    "areas": [
-      "Greater Brisbane and Surrounds",
-      "South Burnett",
-      "Toowoomba",
-      "Southern Downs",
-      "Gympie",
-      "Cherbourg"
-    ],
-    "hazards": [
-      "DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms occurring over the southeast inland this evening, moving east.",
-    "id": "IDQ21035",
-    "issued": "2026-10-26T14:01:12Z",
-    "service": "WSW",
-    "started": "2026-10-26T14:16:56Z",
-    "state": "QLD",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning - Southeast Queensland"
-  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
