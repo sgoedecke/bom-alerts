@@ -209,30 +209,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Moonie River"
   },
-  "IDQ20842": {
-    "areas": [
-      "Wallam and Mungallala Creeks",
-      "Wallam Creek",
-      "Wallam Creek at Bollon Mary St",
-      "Mungallala Creek",
-      "Wallam Creek at Homeboin",
-      "Wallam Creek at Cardiff",
-      "Mungallala Creek at Mungallala",
-      "Mungallala Creek at Tomoo",
-      "Mungallala Creek at Deelamon",
-      "Nebine Creek at Bendena",
-      "Nebine Creek at Roseleigh Crossing"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDQ20842",
-    "issued": "2026-10-24T00:30:09Z",
-    "service": "HFW",
-    "started": "2026-10-24T12:01:07Z",
-    "state": "QLD",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for the Wallam Creek and Flood Warning for the Mungallala Creek"
-  },
   "IDQ20845": {
     "areas": [
       "Warrego River (QLD)",
