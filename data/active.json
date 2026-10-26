@@ -302,31 +302,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
-  "IDT20611": {
-    "areas": [
-      "South Esk River",
-      "St Pauls River",
-      "St Pauls River at Lewis Hill",
-      "Break O'Day River at Killymoon",
-      "South Esk River at Upper Esk Road Bridge",
-      "South Esk River at Mathinna",
-      "South Esk River at Fingal",
-      "St Pauls River at Above Avoca",
-      "South Esk River at Llewellyn",
-      "South Esk River at Perth",
-      "South Esk River at Longford",
-      "South Esk River at Trevallyn Pond"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDT20611",
-    "issued": "2026-10-25T02:38:12Z",
-    "service": "HFW",
-    "started": "2026-10-25T12:34:56Z",
-    "state": "TAS",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for the South Esk River"
-  },
   "IDT38200": {
     "areas": [
       "Central Plateau",
