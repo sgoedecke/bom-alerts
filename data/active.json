@@ -311,6 +311,26 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Capricornia",
+      "Central Highlands and Coalfields",
+      "Darling Downs and Granite Belt",
+      "Wide Bay and Burnett",
+      "Southeast Coast"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL, LARGE HAILSTONES and DAMAGING WINDS"
+    ],
+    "headline": "Severe thunderstorms continuing over the southeast.",
+    "id": "IDQ21033",
+    "issued": "2026-10-26T13:57:37Z",
+    "service": "WSW",
+    "started": "2026-10-26T14:16:56Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
