@@ -57,6 +57,33 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Mary River"
   },
+  "IDQ20807": {
+    "areas": [
+      "Lockyer and Laidley Creeks",
+      "Laidley Creek",
+      "Laidley Creek at Laidley",
+      "Lockyer Creek",
+      "Lockyer Creek at Gatton",
+      "Lockyer Ck at Glenore Grove",
+      "Lockyer Ck at Helidon TM",
+      "Tenthill Ck at Tenthill TM",
+      "Lockyer Ck at Gatton TM",
+      "Laidley Ck at Mulgowie Alert",
+      "Laidley Ck at Mulgowie TM",
+      "Laidley Ck at Showground Weir TM",
+      "Laidley Ck at Warrego Hwy Alert",
+      "Laidley Ck at Warrego Hwy TM"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20807",
+    "issued": "2026-10-26T09:48:33Z",
+    "service": "HFW",
+    "started": "2026-10-26T14:16:56Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Minor Flood Warning for Laidley Creek and Lockyer Creek"
+  },
   "IDQ20809": {
     "areas": [
       "Bremer River and Warrill Creek",
