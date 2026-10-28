@@ -1,4 +1,22 @@
 {
+  "IDD21033": {
+    "areas": [
+      "Barkly",
+      "Simpson",
+      "Tanami"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL, LARGE HAILSTONES and DAMAGING WINDS"
+    ],
+    "headline": "Severe thunderstorms continuing tonight in the south of the state",
+    "id": "IDD21033",
+    "issued": "2026-10-28T12:07:36Z",
+    "service": "WSW",
+    "started": "2026-10-28T14:02:05Z",
+    "state": "NT",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDN20400": {
     "areas": [
       "Macquarie Coast: Smoky Cape to Seal Rocks",
