@@ -320,6 +320,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20201": {
+    "areas": [
+      "Far West Coast: WA-SA Border to Fowlers Bay"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-10-28T11:00:00Z",
+    "service": "WSM",
+    "started": "2026-10-28T14:02:05Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
