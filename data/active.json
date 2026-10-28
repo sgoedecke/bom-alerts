@@ -349,20 +349,6 @@
     "sub_service": "WOW",
     "title": "GALE WARNING 8 FOR SOUTHERN AREA"
   },
-  "IDY21090": {
-    "areas": [
-      "Head Office"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDY21090",
-    "issued": "2026-10-25T12:33:57Z",
-    "service": "WSM",
-    "started": "2026-10-25T12:34:56Z",
-    "state": "AUS",
-    "sub_service": "WOW",
-    "title": "GALE WARNING 10 FOR SOUTHEASTERN AND SOUTHERN AREAS"
-  },
   "IDY21091": {
     "areas": [
       "Head Office"
