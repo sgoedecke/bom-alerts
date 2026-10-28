@@ -97,36 +97,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Lower Condamine River"
   },
-  "IDQ20831": {
-    "areas": [
-      "Upper Balonne and Maranoa Rivers",
-      "Bungil Creek",
-      "Bungil Creek at Roma",
-      "Dogwood Creek at Miles",
-      "Balonne River at Warkon",
-      "Bungil Creek at Tabers",
-      "Bungil Creek at Tindarra",
-      "Balonne River at Surat",
-      "Balonne River at Surat TM",
-      "Balonne River at Weribone",
-      "Balonne River at Warroo",
-      "Maranoa River at Forest Vale",
-      "Maranoa River at Mitchell",
-      "Maranoa River at Springfield",
-      "Maranoa River at Woodlands",
-      "Maranoa River at Old Cashmere",
-      "Balonne River at Beardmore Dam"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDQ20831",
-    "issued": "2026-10-27T11:54:54Z",
-    "service": "HFW",
-    "started": "2026-10-27T13:13:06Z",
-    "state": "QLD",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for Bungil Creek"
-  },
   "IDQ20835": {
     "areas": [
       "Macintyre and Weir Rivers",
