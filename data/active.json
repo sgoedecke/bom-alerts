@@ -35,6 +35,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN28522": {
+    "areas": [
+      "Hunter Coast: Seal Rocks to Broken Bay",
+      "Sydney Coast: Broken Bay to Port Hacking"
+    ],
+    "hazards": [
+      "Hazardous Surf Warning"
+    ],
+    "headline": "",
+    "id": "IDN28522",
+    "issued": "2026-10-28T06:23:46Z",
+    "service": "WSM",
+    "started": "2026-10-28T14:02:05Z",
+    "state": "NSW",
+    "sub_service": "WHS",
+    "title": "Hazardous Surf Warning for New South Wales"
+  },
   "IDQ20790": {
     "areas": [
       "Mary River",
