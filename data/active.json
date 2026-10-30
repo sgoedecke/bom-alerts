@@ -266,26 +266,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDQ21033": {
-    "areas": [
-      "Northern Goldfields and Upper Flinders",
-      "Herbert and Lower Burdekin",
-      "Central Coast and Whitsundays",
-      "Central Highlands and Coalfields",
-      "Central West"
-    ],
-    "hazards": [
-      "HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms continuing about the central interior.",
-    "id": "IDQ21033",
-    "issued": "2026-10-30T12:34:02Z",
-    "service": "WSW",
-    "started": "2026-10-30T14:10:56Z",
-    "state": "QLD",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDS20201": {
     "areas": [
       "Far West Coast: WA-SA Border to Fowlers Bay"
