@@ -341,6 +341,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV21037": {
+    "areas": [
+      "North East",
+      "West and South Gippsland",
+      "East Gippsland"
+    ],
+    "hazards": [
+      "DAMAGING WINDS"
+    ],
+    "headline": "Damaging winds developing over the eastern ranges during Saturday morning.",
+    "id": "IDV21037",
+    "issued": "2026-10-30T11:36:55Z",
+    "service": "WSW",
+    "started": "2026-10-30T14:10:56Z",
+    "state": "VIC",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDY21010": {
     "areas": [
       "Head Office"
