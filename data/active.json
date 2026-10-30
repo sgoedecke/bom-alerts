@@ -203,6 +203,24 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (QLD)"
   },
+  "IDQ20850": {
+    "areas": [
+      "Paroo River (QLD)",
+      "Paroo River downstream of Eulo",
+      "Paroo River at Hungerford",
+      "Paroo River at Eulo",
+      "Paroo River at Caiwarro"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20850",
+    "issued": "2026-10-30T00:27:38Z",
+    "service": "HFW",
+    "started": "2026-10-30T14:10:56Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Paroo River"
+  },
   "IDQ20855": {
     "areas": [
       "Bulloo River",
