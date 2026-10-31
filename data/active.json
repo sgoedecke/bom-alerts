@@ -168,6 +168,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDW20100": {
+    "areas": [
+      "Leeuwin Coast: Cape Naturaliste to Walpole",
+      "Albany Coast: Walpole to Bremer Bay"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDW20100",
+    "issued": "2026-10-31T17:01:00Z",
+    "service": "WSM",
+    "started": "2026-10-31T22:29:42Z",
+    "state": "WA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Western Australia"
+  },
   "IDY21030": {
     "areas": [
       "Head Office"
