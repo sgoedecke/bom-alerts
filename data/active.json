@@ -168,22 +168,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDS20240": {
-    "areas": [
-      "Adelaide"
-    ],
-    "hazards": [
-      "Road weather alert for reduced visibility in fog"
-    ],
-    "headline": "",
-    "id": "IDS20240",
-    "issued": "2026-10-30T21:07:19Z",
-    "service": "WSP",
-    "started": "2026-10-30T22:58:56Z",
-    "state": "SA",
-    "sub_service": "WRW",
-    "title": "Road Weather Alert for Adelaide"
-  },
   "IDT20100": {
     "areas": [
       "Far North West Coast: Sandy Cape to Stanley",
