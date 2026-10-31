@@ -17,6 +17,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN21033": {
+    "areas": [
+      "Hunter",
+      "Central Tablelands",
+      "North West Slopes and Plains",
+      "Central West Slopes and Plains"
+    ],
+    "hazards": [
+      "DAMAGING WINDS, LARGE HAILSTONES and HEAVY RAINFALL"
+    ],
+    "headline": "Isolated severe thunderstorms continuing over parts of the central west and northern inland for the next few hours.",
+    "id": "IDN21033",
+    "issued": "2026-10-31T11:40:42Z",
+    "service": "WSW",
+    "started": "2026-10-31T13:39:47Z",
+    "state": "NSW",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
