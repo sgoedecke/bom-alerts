@@ -1,4 +1,21 @@
 {
+  "IDN36631": {
+    "areas": [
+      "Warrego River (NSW)",
+      "Warrego River at Barringun No. 2",
+      "Warrego River at Enngonia",
+      "Warrego River at Fords Bridge Bywash"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDN36631",
+    "issued": "2026-11-01T05:35:48Z",
+    "service": "HFW",
+    "started": "2026-11-01T14:17:10Z",
+    "state": "NSW",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
