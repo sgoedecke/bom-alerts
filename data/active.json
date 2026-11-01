@@ -211,5 +211,19 @@
     "state": "AUS",
     "sub_service": "WOW",
     "title": "GALE WARNING 8 FOR SOUTHERN AREA"
+  },
+  "IDY21080": {
+    "areas": [
+      "Head Office"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDY21080",
+    "issued": "2026-11-01T12:05:55Z",
+    "service": "WSM",
+    "started": "2026-11-01T14:17:10Z",
+    "state": "AUS",
+    "sub_service": "WOW",
+    "title": "GALE WARNING 9 FOR SOUTHERN AREA"
   }
 }
