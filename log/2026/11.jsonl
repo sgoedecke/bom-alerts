@@ -1,2 +1,3 @@
 {"detected": "2026-11-01T14:17:10Z", "event": "end", "id": "IDT20100", "issued": "2026-11-01T11:00:00Z", "reason": "cancelled", "service": "WSM", "started": "2026-10-23T22:12:28Z", "state": "TAS", "sub_service": "WMS", "title": "Marine Wind Warning Summary for Tasmania"}
 {"detected": "2026-11-01T14:17:10Z", "event": "end", "id": "IDY21030", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-10-30T14:10:56Z", "state": "AUS", "sub_service": "WOW", "title": "GALE WARNING 4 FOR SOUTHERN AREA"}
+{"detected": "2026-11-01T14:17:10Z", "event": "end", "id": "IDY21050", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-10-31T13:39:47Z", "state": "AUS", "sub_service": "WOW", "title": "GALE WARNING 6 FOR SOUTHERN AREAS"}
