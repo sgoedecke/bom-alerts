@@ -222,6 +222,27 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20201": {
+    "areas": [
+      "Central Coast",
+      "South Central Coast",
+      "Spencer Gulf",
+      "Investigator Strait",
+      "Upper South East Coast: Murray Mouth to Cape Jaffa",
+      "Lower South East Coast: Cape Jaffa to SA-VIC Border"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-11-02T23:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-03T01:36:02Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
