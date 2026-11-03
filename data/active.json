@@ -222,6 +222,38 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Logan River"
   },
+  "IDQ20827": {
+    "areas": [
+      "Upper Condamine River",
+      "Condamine River to Warwick",
+      "Condamine River at Warwick",
+      "Condamine River at The Head",
+      "Spring Creek at Killarney Alert",
+      "Condamine River at Killarney",
+      "Condamine River at Elbow Valley",
+      "Condamine River at Murrays Bridge",
+      "Connolly Dam",
+      "Sandy Creek at Leslie Dam HG",
+      "Glengallan Creek",
+      "Condamine River at Pratten",
+      "Dalrymple Creek at Allora",
+      "Condamine River at Millbrook",
+      "Condamine River at Tummaville",
+      "Condamine River at Centenary Bridge",
+      "Condamine River at Cecil Plains",
+      "Oakey Creek at Jondaryan",
+      "Oakey Creek at Fairview"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20827",
+    "issued": "2026-11-03T04:34:53Z",
+    "service": "HFW",
+    "started": "2026-11-03T15:09:59Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Upper Condamine River"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
