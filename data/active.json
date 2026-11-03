@@ -136,6 +136,33 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Mary River"
   },
+  "IDQ20800": {
+    "areas": [
+      "Upper Brisbane River",
+      "Stanley River to Somerset Dam",
+      "Stanley River at Woodford",
+      "Stanley River at Peachester",
+      "Kilcoy Creek at Kilcoy Weir (DS)",
+      "Stanley River at Somerset Dam",
+      "Cooyar Creek",
+      "Brisbane River at Devon Hills",
+      "Emu Creek at Boat Mountain",
+      "Maronghi Creek at Glendale",
+      "Brisbane River at Gregor Creek",
+      "Cressbrook Creek at Cressbrook Dam",
+      "Cressbrook Creek at Rosentreters Bridge",
+      "Brisbane River at Wivenhoe Dam HG"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20800",
+    "issued": "2026-11-03T04:34:46Z",
+    "service": "HFW",
+    "started": "2026-11-03T15:09:59Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Stanley River"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
