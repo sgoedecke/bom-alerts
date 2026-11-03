@@ -163,6 +163,31 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Stanley River"
   },
+  "IDQ20809": {
+    "areas": [
+      "Bremer River and Warrill Creek",
+      "Warrill Creek",
+      "Warrill Creek at Kalbar",
+      "Warrill Creek at Harrisville",
+      "Warrill Creek at Amberley",
+      "Bremer River",
+      "Bremer River at Rosewood",
+      "Bremer River at Five Mile Bridge",
+      "Bremer River at Walloon",
+      "Western Creek at Grandchester",
+      "Warrill Creek at Kalbar Weir HW",
+      "Bremer River at Ipswich"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20809",
+    "issued": "2026-11-03T09:46:32Z",
+    "service": "HFW",
+    "started": "2026-11-03T15:09:59Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Minor Flood Warning for the Bremer River and Warrill Creek"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
