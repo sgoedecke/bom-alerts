@@ -243,6 +243,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
+  "IDT20100": {
+    "areas": [
+      "Far North West Coast: Sandy Cape to Stanley"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDT20100",
+    "issued": "2026-11-02T23:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-03T01:36:02Z",
+    "state": "TAS",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Tasmania"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
