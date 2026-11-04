@@ -22,6 +22,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
+  "IDN29000": {
+    "areas": [
+      "Central Tablelands",
+      "Southern Tablelands",
+      "South West Slopes",
+      "Snowy Mountains"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDN29000",
+    "issued": "2026-11-03T23:28:42Z",
+    "service": "WSP",
+    "started": "2026-11-03T23:59:18Z",
+    "state": "NSW",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
