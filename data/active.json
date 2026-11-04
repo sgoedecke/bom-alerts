@@ -1,4 +1,27 @@
 {
+  "IDN20400": {
+    "areas": [
+      "Eden Coast: Montague Island to Gabo Island",
+      "Coffs Coast: Wooli to Smoky Cape",
+      "Macquarie Coast: Smoky Cape to Seal Rocks",
+      "Hunter Coast: Seal Rocks to Broken Bay",
+      "Sydney Coast: Broken Bay to Port Hacking",
+      "Illawarra Coast: Port Hacking to Ulladulla",
+      "Batemans Coast: Ulladulla to Montague Island"
+    ],
+    "hazards": [
+      "Gale Warning",
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDN20400",
+    "issued": "2026-11-03T23:29:52Z",
+    "service": "WSM",
+    "started": "2026-11-03T23:59:18Z",
+    "state": "NSW",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for New South Wales"
+  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
