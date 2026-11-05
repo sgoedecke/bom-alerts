@@ -244,24 +244,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDV29000": {
-    "areas": [
-      "Central",
-      "West and South Gippsland",
-      "East Gippsland"
-    ],
-    "hazards": [
-      "Warning to Sheep Graziers"
-    ],
-    "headline": "",
-    "id": "IDV29000",
-    "issued": "2026-11-02T22:27:46Z",
-    "service": "WSP",
-    "started": "2026-11-03T01:36:02Z",
-    "state": "VIC",
-    "sub_service": "WSG",
-    "title": "Warning to Sheep Graziers"
-  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
