@@ -302,6 +302,34 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
+  "IDV36330": {
+    "areas": [
+      "Bunyip River",
+      "Bunyip River at Iona",
+      "Bunyip River at Cora Lynn",
+      "Cardinia Creek at Cardinia",
+      "Grumscrub Creek at Officer (Princess Highway)",
+      "Toomuc Creek at Pakenham",
+      "Deep Creek at Pakenham (Princess Highway)",
+      "Kennedy Creek at Pakenham (Kennedy Road)",
+      "Tarago River at Neerim South",
+      "Tarago River at Drouin West",
+      "Bunyip River at Tonimbuk (DS Headworks)",
+      "Bunyip River at Tonimbuk",
+      "Bunyip River at Longwarry North",
+      "Bunyip River at Koo Wee Rup",
+      "Lang Lang River at Yannathan (Hamiltons Bridge)"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDV36330",
+    "issued": "2026-11-06T03:12:06Z",
+    "service": "HFW",
+    "started": "2026-11-06T15:04:40Z",
+    "state": "VIC",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Bunyip River"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
