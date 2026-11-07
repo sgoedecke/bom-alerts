@@ -312,22 +312,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
-  "IDW21033": {
-    "areas": [
-      "Kimberley"
-    ],
-    "hazards": [
-      "DAMAGING WINDS and HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms in the northeast Kimberley",
-    "id": "IDW21033",
-    "issued": "2026-11-07T13:23:00Z",
-    "service": "WSW",
-    "started": "2026-11-07T14:03:36Z",
-    "state": "WA",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDY21000": {
     "areas": [
       "Head Office"
