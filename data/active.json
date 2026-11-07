@@ -229,22 +229,6 @@
     "sub_service": "WSG",
     "title": "Warning to Sheep Graziers"
   },
-  "IDT21900": {
-    "areas": [
-      "Upper Derwent Valley"
-    ],
-    "hazards": [
-      "Frost Warning"
-    ],
-    "headline": "",
-    "id": "IDT21900",
-    "issued": "2026-11-06T23:37:28Z",
-    "service": "WSP",
-    "started": "2026-11-06T23:43:47Z",
-    "state": "TAS",
-    "sub_service": "WFR",
-    "title": "Frost Warning"
-  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
