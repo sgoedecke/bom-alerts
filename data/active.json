@@ -72,24 +72,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
-  "IDQ20085": {
-    "areas": [
-      "Sunshine Coast Waters: Double Island Point to Cape Moreton",
-      "Moreton Bay",
-      "Gold Coast Waters: Cape Moreton to Point Danger"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDQ20085",
-    "issued": "2026-11-06T23:00:00Z",
-    "service": "WSM",
-    "started": "2026-11-06T23:43:47Z",
-    "state": "QLD",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Queensland"
-  },
   "IDQ20831": {
     "areas": [
       "Upper Balonne and Maranoa Rivers",
