@@ -155,22 +155,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
-  "IDS20290": {
-    "areas": [
-      "West Coast"
-    ],
-    "hazards": [
-      "Extreme Fire Danger"
-    ],
-    "headline": "",
-    "id": "IDS20290",
-    "issued": "2026-11-08T06:12:56Z",
-    "service": "WSF",
-    "started": "2026-11-08T14:18:37Z",
-    "state": "SA",
-    "sub_service": "WFW",
-    "title": "Fire Weather Warning"
-  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
