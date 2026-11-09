@@ -80,3 +80,4 @@
 {"detected": "2026-11-09T17:31:28Z", "event": "end", "id": "IDS20290", "issued": null, "reason": "removed", "service": "WSF", "started": "2026-11-08T14:18:37Z", "state": "SA", "sub_service": "WFW", "title": "Fire Weather Warning"}
 {"detected": "2026-11-09T17:31:28Z", "event": "end", "id": "IDV20600", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-11-03T01:36:02Z", "state": "VIC", "sub_service": "WMS", "title": "Marine Wind Warning Summary for Victoria"}
 {"detected": "2026-11-09T17:31:28Z", "event": "end", "id": "IDV29000", "issued": null, "reason": "removed", "service": "WSP", "started": "2026-11-06T00:17:50Z", "state": "VIC", "sub_service": "WSG", "title": "Warning to Sheep Graziers"}
+{"detected": "2026-11-09T17:31:28Z", "event": "end", "id": "IDY21000", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-11-06T23:43:47Z", "state": "AUS", "sub_service": "WOW", "title": "GALE WARNING 1 FOR SOUTHEASTERN AREA"}
