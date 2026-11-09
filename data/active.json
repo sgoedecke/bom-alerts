@@ -155,23 +155,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
-  "IDV20600": {
-    "areas": [
-      "West Coast: SA-VIC Border to Cape Otway",
-      "Central Coast: Cape Otway to Wilsons Promontory"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDV20600",
-    "issued": "2026-11-03T00:19:53Z",
-    "service": "WSM",
-    "started": "2026-11-03T01:36:02Z",
-    "state": "VIC",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Victoria"
-  },
   "IDV29000": {
     "areas": [
       "North Central",
