@@ -122,6 +122,24 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
+  "IDW21033": {
+    "areas": [
+      "Gascoyne",
+      "Goldfields",
+      "South Interior"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL and DAMAGING WINDS"
+    ],
+    "headline": "Severe thunderstorms continuing through the Goldfields this evening.",
+    "id": "IDW21033",
+    "issued": "2026-11-11T13:39:39Z",
+    "service": "WSW",
+    "started": "2026-11-11T15:14:26Z",
+    "state": "WA",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDY21050": {
     "areas": [
       "Head Office"
