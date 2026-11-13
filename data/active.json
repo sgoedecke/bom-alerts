@@ -102,6 +102,26 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
+  "IDT20100": {
+    "areas": [
+      "Central North Coast: Stanley to Northern Tip of Flinders Island",
+      "Banks Strait and Franklin Sound",
+      "Lower East Coast: Wineglass Bay to Tasman Island",
+      "South East Coast: Tasman Island to South East Cape",
+      "South West Coast: South East Cape to Low Rocky Point"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDT20100",
+    "issued": "2026-11-12T23:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-13T00:26:17Z",
+    "state": "TAS",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Tasmania"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
