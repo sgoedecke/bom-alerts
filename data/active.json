@@ -86,6 +86,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20201": {
+    "areas": [
+      "Spencer Gulf"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-11-12T23:31:42Z",
+    "service": "WSM",
+    "started": "2026-11-13T00:26:17Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
