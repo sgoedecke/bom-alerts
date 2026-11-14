@@ -89,6 +89,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20201": {
+    "areas": [
+      "Spencer Gulf"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-11-13T23:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-14T00:20:51Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDT20100": {
     "areas": [
       "Central North Coast: Stanley to Northern Tip of Flinders Island",
