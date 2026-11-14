@@ -32,6 +32,39 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
+  "IDQ20827": {
+    "areas": [
+      "Upper Condamine River",
+      "Condamine River downstream of Warwick to Oakey Creek",
+      "Condamine River at Tummaville",
+      "Condamine River at The Head",
+      "Spring Creek at Killarney Alert",
+      "Condamine River at Killarney",
+      "Condamine River at Elbow Valley",
+      "Condamine River at Murrays Bridge",
+      "Connolly Dam",
+      "Condamine River at Warwick",
+      "Sandy Creek at Leslie Dam HG",
+      "Glengallan Creek",
+      "Condamine River at Pratten",
+      "Dalrymple Creek at Allora",
+      "Condamine River at Millbrook",
+      "Condamine River at Centenary Bridge",
+      "Condamine River at Cecil Plains",
+      "Gowrie Creek at Oakey",
+      "Oakey Creek at Jondaryan",
+      "Oakey Creek at Fairview"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20827",
+    "issued": "2026-11-13T19:43:20Z",
+    "service": "HFW",
+    "started": "2026-11-14T00:20:51Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Upper Condamine River"
+  },
   "IDQ20860": {
     "areas": [
       "Thomson and Barcoo Rivers and Cooper Creek",
