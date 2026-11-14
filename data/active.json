@@ -157,6 +157,22 @@
     "sub_service": "WBU",
     "title": "Bush Walkers Weather Alert"
   },
+  "IDV29000": {
+    "areas": [
+      "Central"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDV29000",
+    "issued": "2026-11-14T12:29:37Z",
+    "service": "WSP",
+    "started": "2026-11-14T14:09:53Z",
+    "state": "VIC",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
