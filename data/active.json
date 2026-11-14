@@ -141,22 +141,6 @@
     "sub_service": "WBU",
     "title": "Bush Walkers Weather Alert"
   },
-  "IDV20600": {
-    "areas": [
-      "Central Gippsland Coast: Wilsons Promontory to Lakes Entrance"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDV20600",
-    "issued": "2026-11-12T23:31:41Z",
-    "service": "WSM",
-    "started": "2026-11-13T00:26:17Z",
-    "state": "VIC",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Victoria"
-  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
