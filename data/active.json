@@ -125,6 +125,22 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT38200": {
+    "areas": [
+      "Western"
+    ],
+    "hazards": [
+      "snow"
+    ],
+    "headline": "",
+    "id": "IDT38200",
+    "issued": "2026-11-14T00:21:07Z",
+    "service": "WSP",
+    "started": "2026-11-14T00:20:51Z",
+    "state": "TAS",
+    "sub_service": "WBU",
+    "title": "Bush Walkers Weather Alert"
+  },
   "IDV20600": {
     "areas": [
       "Central Gippsland Coast: Wilsons Promontory to Lakes Entrance"
