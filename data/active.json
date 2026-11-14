@@ -89,6 +89,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ21033": {
+    "areas": [
+      "Central Highlands and Coalfields"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Storms with heavy rainfall in the Central Highlands and Coalfields district",
+    "id": "IDQ21033",
+    "issued": "2026-11-14T13:02:24Z",
+    "service": "WSW",
+    "started": "2026-11-14T14:09:53Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDS20201": {
     "areas": [
       "Spencer Gulf"
