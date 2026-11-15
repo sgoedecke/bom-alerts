@@ -155,24 +155,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
-  "IDT21900": {
-    "areas": [
-      "Central North",
-      "Midlands",
-      "Upper Derwent Valley"
-    ],
-    "hazards": [
-      "Frost Warning"
-    ],
-    "headline": "",
-    "id": "IDT21900",
-    "issued": "2026-11-14T22:58:12Z",
-    "service": "WSP",
-    "started": "2026-11-14T22:59:18Z",
-    "state": "TAS",
-    "sub_service": "WFR",
-    "title": "Frost Warning"
-  },
   "IDV29000": {
     "areas": [
       "Central"
