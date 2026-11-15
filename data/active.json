@@ -1,21 +1,4 @@
 {
-  "IDD21033": {
-    "areas": [
-      "Daly",
-      "Arnhem"
-    ],
-    "hazards": [
-      "HEAVY RAINFALL"
-    ],
-    "headline": "Thunderstorms are producing heavy rainfall over parts of the Top End",
-    "id": "IDD21033",
-    "issued": "2026-11-15T13:11:04Z",
-    "service": "WSW",
-    "started": "2026-11-15T14:46:09Z",
-    "state": "NT",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN20400": {
     "areas": [
       "Coffs Coast: Wooli to Smoky Cape",
