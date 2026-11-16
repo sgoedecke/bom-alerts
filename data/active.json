@@ -264,6 +264,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
+  "IDW21033": {
+    "areas": [
+      "Gascoyne",
+      "Goldfields",
+      "Central West",
+      "Central Wheat Belt"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Severe thunderstorms continue in central inland Western Australia this evening.",
+    "id": "IDW21033",
+    "issued": "2026-11-16T16:13:30Z",
+    "service": "WSW",
+    "started": "2026-11-16T17:03:06Z",
+    "state": "WA",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDY21000": {
     "areas": [
       "Head Office"
