@@ -230,22 +230,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
-  "IDW30000": {
-    "areas": [
-      "Burrup"
-    ],
-    "hazards": [
-      "Extreme Fire Danger"
-    ],
-    "headline": "",
-    "id": "IDW30000",
-    "issued": "2026-11-16T07:00:34Z",
-    "service": "WSF",
-    "started": "2026-11-16T17:03:06Z",
-    "state": "WA",
-    "sub_service": "WFW",
-    "title": "Fire Weather Warning"
-  },
   "IDY21000": {
     "areas": [
       "Head Office"

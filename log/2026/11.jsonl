@@ -145,3 +145,4 @@
 {"detected": "2026-11-17T02:28:32Z", "event": "end", "id": "IDN20400", "issued": null, "reason": "removed", "service": "WSM", "started": "2026-11-15T14:46:09Z", "state": "NSW", "sub_service": "WMS", "title": "Marine Wind Warning Summary for New South Wales"}
 {"detected": "2026-11-17T02:28:32Z", "event": "end", "id": "IDN29000", "issued": null, "reason": "removed", "service": "WSP", "started": "2026-11-14T22:59:18Z", "state": "NSW", "sub_service": "WSG", "title": "Warning to Sheep Graziers"}
 {"detected": "2026-11-17T02:28:32Z", "event": "end", "id": "IDW21033", "issued": null, "reason": "removed", "service": "WSW", "started": "2026-11-16T17:03:06Z", "state": "WA", "sub_service": "WST", "title": "Severe Thunderstorm Warning"}
+{"detected": "2026-11-17T16:53:40Z", "event": "end", "id": "IDW30000", "issued": null, "reason": "removed", "service": "WSF", "started": "2026-11-16T17:03:06Z", "state": "WA", "sub_service": "WFW", "title": "Fire Weather Warning"}
