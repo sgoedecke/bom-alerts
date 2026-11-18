@@ -1,4 +1,22 @@
 {
+  "IDD21033": {
+    "areas": [
+      "Simpson",
+      "Lasseter",
+      "Tanami"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL and DAMAGING WINDS"
+    ],
+    "headline": "Severe thunderstorms continuing about southwestern NT.",
+    "id": "IDD21033",
+    "issued": "2026-11-18T15:18:44Z",
+    "service": "WSW",
+    "started": "2026-11-18T16:27:47Z",
+    "state": "NT",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
