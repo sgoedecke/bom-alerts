@@ -183,6 +183,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20290": {
+    "areas": [
+      "Yorke Peninsula"
+    ],
+    "hazards": [
+      "Extreme Fire Danger"
+    ],
+    "headline": "",
+    "id": "IDS20290",
+    "issued": "2026-11-18T05:46:50Z",
+    "service": "WSF",
+    "started": "2026-11-18T16:27:47Z",
+    "state": "SA",
+    "sub_service": "WFW",
+    "title": "Fire Weather Warning"
+  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
