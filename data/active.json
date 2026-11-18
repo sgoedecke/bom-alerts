@@ -17,6 +17,23 @@
     "sub_service": "WST",
     "title": "Severe Thunderstorm Warning"
   },
+  "IDN20400": {
+    "areas": [
+      "Batemans Coast: Ulladulla to Montague Island",
+      "Eden Coast: Montague Island to Gabo Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDN20400",
+    "issued": "2026-11-18T11:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-18T16:27:47Z",
+    "state": "NSW",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for New South Wales"
+  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
