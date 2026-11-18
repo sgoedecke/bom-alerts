@@ -34,30 +34,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Queensland"
   },
-  "IDQ20809": {
-    "areas": [
-      "Bremer River and Warrill Creek",
-      "Warrill Creek",
-      "Warrill Creek at Kalbar",
-      "Warrill Creek at Harrisville",
-      "Warrill Creek at Amberley",
-      "Western Creek at Grandchester",
-      "Bremer River at Rosewood",
-      "Bremer River at Five Mile Bridge",
-      "Bremer River at Walloon",
-      "Warrill Creek at Kalbar Weir HW",
-      "Bremer River at Ipswich"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDQ20809",
-    "issued": "2026-11-15T17:33:45Z",
-    "service": "HFW",
-    "started": "2026-11-15T23:23:26Z",
-    "state": "QLD",
-    "sub_service": "WFL",
-    "title": "Initial Moderate Flood Warning for the Warrill Creek"
-  },
   "IDQ20815": {
     "areas": [
       "Logan and Albert Rivers",
