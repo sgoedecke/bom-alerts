@@ -119,22 +119,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDS20201": {
-    "areas": [
-      "Far West Coast: WA-SA Border to Fowlers Bay"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDS20201",
-    "issued": "2026-11-15T23:00:00Z",
-    "service": "WSM",
-    "started": "2026-11-15T23:23:26Z",
-    "state": "SA",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for South Australia"
-  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
