@@ -119,22 +119,6 @@
     "sub_service": "WFW",
     "title": "Fire Weather Warning"
   },
-  "IDT29000": {
-    "areas": [
-      "Furneaux Islands"
-    ],
-    "hazards": [
-      "Warning to Sheep Graziers"
-    ],
-    "headline": "",
-    "id": "IDT29000",
-    "issued": "2026-11-18T05:10:25Z",
-    "service": "WSP",
-    "started": "2026-11-18T16:27:47Z",
-    "state": "TAS",
-    "sub_service": "WSG",
-    "title": "Warning to Sheep Graziers"
-  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
