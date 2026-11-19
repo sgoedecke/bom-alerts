@@ -117,6 +117,22 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDT20100": {
+    "areas": [
+      "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDT20100",
+    "issued": "2026-11-19T11:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-19T16:34:59Z",
+    "state": "TAS",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Tasmania"
+  },
   "IDV20600": {
     "areas": [
       "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
