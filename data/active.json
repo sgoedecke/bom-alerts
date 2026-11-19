@@ -135,6 +135,23 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDW20100": {
+    "areas": [
+      "Leeuwin Coast: Cape Naturaliste to Walpole",
+      "Albany Coast: Walpole to Bremer Bay"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDW20100",
+    "issued": "2026-11-19T01:06:13Z",
+    "service": "WSM",
+    "started": "2026-11-19T01:13:41Z",
+    "state": "WA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Western Australia"
+  },
   "IDY21000": {
     "areas": [
       "Head Office"
