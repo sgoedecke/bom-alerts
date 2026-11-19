@@ -33,24 +33,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
-  "IDQ20085": {
-    "areas": [
-      "Gold Coast Waters: Cape Moreton to Point Danger",
-      "Mackay Coast: Bowen to St Lawrence",
-      "Capricornia Coast: St Lawrence to Burnett Heads"
-    ],
-    "hazards": [
-      "Strong Wind Warning"
-    ],
-    "headline": "",
-    "id": "IDQ20085",
-    "issued": "2026-11-16T17:00:00Z",
-    "service": "WSM",
-    "started": "2026-11-16T17:03:06Z",
-    "state": "QLD",
-    "sub_service": "WMS",
-    "title": "Marine Wind Warning Summary for Queensland"
-  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
