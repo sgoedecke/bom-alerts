@@ -1,20 +1,4 @@
 {
-  "IDD21033": {
-    "areas": [
-      "Arnhem"
-    ],
-    "hazards": [
-      "INTENSE RAINFALL"
-    ],
-    "headline": "INTENSE RAINFALL NEAR BULMAN",
-    "id": "IDD21033",
-    "issued": "2026-11-19T16:07:44Z",
-    "service": "WSW",
-    "started": "2026-11-19T16:34:59Z",
-    "state": "NT",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN20400": {
     "areas": [
       "Batemans Coast: Ulladulla to Montague Island",
