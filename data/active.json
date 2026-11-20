@@ -238,6 +238,20 @@
     "sub_service": "WFW",
     "title": "Fire Weather Warning"
   },
+  "IDW60281": {
+    "areas": [
+      "Western Australia Anonymous Locale 1"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDW60281",
+    "issued": "2026-11-20T12:40:55Z",
+    "service": "WSW",
+    "started": "2026-11-20T16:10:02Z",
+    "state": "WA",
+    "sub_service": "WTC",
+    "title": "Tropical Cyclone Forecast Track Map – WA"
+  },
   "IDY21030": {
     "areas": [
       "Head Office"
