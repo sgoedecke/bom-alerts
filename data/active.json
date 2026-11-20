@@ -49,6 +49,26 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
+  "IDN36632": {
+    "areas": [
+      "Paroo River (NSW)",
+      "Paroo River at Willara Crossing",
+      "Cuttaburra Channel at Turra",
+      "Paroo River at Eulo",
+      "Paroo River at Caiwarro",
+      "Paroo River at Hungerford",
+      "Paroo River at Wanaaring"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDN36632",
+    "issued": "2026-11-19T23:47:05Z",
+    "service": "HFW",
+    "started": "2026-11-20T01:16:42Z",
+    "state": "NSW",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Paroo River"
+  },
   "IDQ20829": {
     "areas": [
       "Lower Condamine River",
