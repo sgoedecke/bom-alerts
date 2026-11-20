@@ -16,22 +16,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
-  "IDN21033": {
-    "areas": [
-      "Upper Western"
-    ],
-    "hazards": [
-      "HEAVY RAINFALL"
-    ],
-    "headline": "Heavy falls in the Upper West.",
-    "id": "IDN21033",
-    "issued": "2026-11-19T16:18:52Z",
-    "service": "WSW",
-    "started": "2026-11-19T16:34:59Z",
-    "state": "NSW",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
