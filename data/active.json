@@ -105,23 +105,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDQ21033": {
-    "areas": [
-      "Channel Country",
-      "Maranoa and Warrego"
-    ],
-    "hazards": [
-      "DAMAGING WINDS and HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms continue across southwest Queensland.",
-    "id": "IDQ21033",
-    "issued": "2026-11-20T00:47:23Z",
-    "service": "WSW",
-    "started": "2026-11-20T01:16:42Z",
-    "state": "QLD",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDT20100": {
     "areas": [
       "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
