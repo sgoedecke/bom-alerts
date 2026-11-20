@@ -208,6 +208,20 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
+  "IDW23100": {
+    "areas": [
+      "Western Australia"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDW23100",
+    "issued": "2026-11-20T12:43:51Z",
+    "service": "WSM",
+    "started": "2026-11-20T16:10:02Z",
+    "state": "WA",
+    "sub_service": "WTC",
+    "title": "Ocean Wind Warning for Tropical Cyclone"
+  },
   "IDY21030": {
     "areas": [
       "Head Office"
