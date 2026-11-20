@@ -222,6 +222,22 @@
     "sub_service": "WTC",
     "title": "Ocean Wind Warning for Tropical Cyclone"
   },
+  "IDW30000": {
+    "areas": [
+      "Burrup"
+    ],
+    "hazards": [
+      "Extreme Fire Danger"
+    ],
+    "headline": "",
+    "id": "IDW30000",
+    "issued": "2026-11-20T07:28:46Z",
+    "service": "WSF",
+    "started": "2026-11-20T16:10:02Z",
+    "state": "WA",
+    "sub_service": "WFW",
+    "title": "Fire Weather Warning"
+  },
   "IDY21030": {
     "areas": [
       "Head Office"
