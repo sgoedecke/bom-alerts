@@ -93,6 +93,25 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDS20201": {
+    "areas": [
+      "Far West Coast: WA-SA Border to Fowlers Bay",
+      "Central Coast",
+      "South Central Coast",
+      "Lower South East Coast: Cape Jaffa to SA-VIC Border"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-11-21T23:00:23Z",
+    "service": "WSM",
+    "started": "2026-11-21T23:48:37Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDS20299": {
     "areas": [
       "North East Pastoral"
