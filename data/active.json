@@ -77,22 +77,6 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
-  "IDS20290": {
-    "areas": [
-      "West Coast"
-    ],
-    "hazards": [
-      "Extreme Fire Danger"
-    ],
-    "headline": "",
-    "id": "IDS20290",
-    "issued": "2026-11-20T05:35:15Z",
-    "service": "WSF",
-    "started": "2026-11-20T16:10:02Z",
-    "state": "SA",
-    "sub_service": "WFW",
-    "title": "Fire Weather Warning"
-  },
   "IDT20100": {
     "areas": [
       "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
