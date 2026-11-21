@@ -192,20 +192,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
-  "IDW27600": {
-    "areas": [
-      "Western Australia"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDW27600",
-    "issued": "2026-11-21T12:30:22Z",
-    "service": "WSW",
-    "started": "2026-11-21T15:23:12Z",
-    "state": "WA",
-    "sub_service": "WTC",
-    "title": "Tropical Cyclone Technical Bulletin"
-  },
   "IDW60281": {
     "areas": [
       "Western Australia Anonymous Locale 1"
