@@ -144,6 +144,25 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDV20600": {
+    "areas": [
+      "West Coast: SA-VIC Border to Cape Otway",
+      "Central Coast: Cape Otway to Wilsons Promontory",
+      "Central Gippsland Coast: Wilsons Promontory to Lakes Entrance",
+      "East Gippsland Coast: Lakes Entrance to 60nm east of Gabo Island"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDV20600",
+    "issued": "2026-11-21T23:00:00Z",
+    "service": "WSM",
+    "started": "2026-11-21T23:48:37Z",
+    "state": "VIC",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for Victoria"
+  },
   "IDV36330": {
     "areas": [
       "Bunyip River",
