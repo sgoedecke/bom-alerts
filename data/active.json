@@ -112,22 +112,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for South Australia"
   },
-  "IDS20299": {
-    "areas": [
-      "North East Pastoral"
-    ],
-    "hazards": [
-      "Extreme Fire Danger"
-    ],
-    "headline": "",
-    "id": "IDS20299",
-    "issued": "2026-11-21T05:28:35Z",
-    "service": "WSF",
-    "started": "2026-11-21T15:23:12Z",
-    "state": "SA",
-    "sub_service": "WFW",
-    "title": "Fire Weather Warning"
-  },
   "IDT20100": {
     "areas": [
       "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
