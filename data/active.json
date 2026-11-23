@@ -147,24 +147,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDV21037": {
-    "areas": [
-      "North East",
-      "West and South Gippsland",
-      "East Gippsland"
-    ],
-    "hazards": [
-      "DAMAGING WINDS"
-    ],
-    "headline": "Damaging winds developing about eastern alpine areas overnight Sunday into Monday morning.",
-    "id": "IDV21037",
-    "issued": "2026-11-21T23:29:43Z",
-    "service": "WSW",
-    "started": "2026-11-21T23:48:37Z",
-    "state": "VIC",
-    "sub_service": "WSW",
-    "title": "Severe Weather Warning"
-  },
   "IDV36330": {
     "areas": [
       "Bunyip River",
