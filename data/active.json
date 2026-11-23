@@ -147,34 +147,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDV36330": {
-    "areas": [
-      "Bunyip River",
-      "Bunyip River at Cora Lynn",
-      "Cardinia Creek at Cardinia",
-      "Grumscrub Creek at Officer (Princess Highway)",
-      "Toomuc Creek at Pakenham",
-      "Deep Creek at Pakenham (Princess Highway)",
-      "Kennedy Creek at Pakenham (Kennedy Road)",
-      "Tarago River at Neerim South",
-      "Tarago River at Drouin West",
-      "Bunyip River at Tonimbuk (DS Headworks)",
-      "Bunyip River at Tonimbuk",
-      "Bunyip River at Longwarry North",
-      "Bunyip River at Iona",
-      "Bunyip River at Koo Wee Rup",
-      "Lang Lang River at Yannathan (Hamiltons Bridge)"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDV36330",
-    "issued": "2026-11-20T23:35:45Z",
-    "service": "HFW",
-    "started": "2026-11-21T00:48:43Z",
-    "state": "VIC",
-    "sub_service": "WFL",
-    "title": "Initial Minor Flood Warning for the Bunyip River"
-  },
   "IDV36630": {
     "areas": [
       "Ovens and King Rivers",
