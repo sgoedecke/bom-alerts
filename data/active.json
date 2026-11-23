@@ -1,20 +1,4 @@
 {
-  "IDD20320": {
-    "areas": [
-      "Simpson East"
-    ],
-    "hazards": [
-      "Extreme Fire Danger"
-    ],
-    "headline": "",
-    "id": "IDD20320",
-    "issued": "2026-11-22T05:55:43Z",
-    "service": "WSF",
-    "started": "2026-11-22T15:19:03Z",
-    "state": "NT",
-    "sub_service": "WFW",
-    "title": "Fire Weather Warning"
-  },
   "IDN20400": {
     "areas": [
       "Batemans Coast: Ulladulla to Montague Island",
