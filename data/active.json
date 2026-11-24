@@ -109,6 +109,26 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV36620": {
+    "areas": [
+      "Kiewa River",
+      "Kiewa River downstream of Mongans Bridge",
+      "Kiewa River at Bandiana",
+      "Kiewa River at Mongans Bridge",
+      "Kiewa River Channel at Kiewa",
+      "Kiewa River Anabranch at Kiewa",
+      "Yackandandah Creek at Osbornes Flat"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDV36620",
+    "issued": "2026-11-24T01:00:38Z",
+    "service": "HFW",
+    "started": "2026-11-24T04:19:30Z",
+    "state": "VIC",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Kiewa River"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
