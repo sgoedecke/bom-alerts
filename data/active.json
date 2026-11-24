@@ -16,23 +16,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
-  "IDN21033": {
-    "areas": [
-      "North West Slopes and Plains",
-      "Upper Western"
-    ],
-    "hazards": [
-      "LARGE HAILSTONES, DAMAGING WINDS and HEAVY RAINFALL"
-    ],
-    "headline": "Severe thunderstorms developing about northwestern New South Wales this afternoon.",
-    "id": "IDN21033",
-    "issued": "2026-11-24T03:27:31Z",
-    "service": "WSW",
-    "started": "2026-11-24T04:19:30Z",
-    "state": "NSW",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
