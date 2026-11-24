@@ -73,23 +73,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
-  "IDT38200": {
-    "areas": [
-      "Central Plateau",
-      "Western"
-    ],
-    "hazards": [
-      "snow"
-    ],
-    "headline": "",
-    "id": "IDT38200",
-    "issued": "2026-11-22T23:07:23Z",
-    "service": "WSP",
-    "started": "2026-11-23T00:18:55Z",
-    "state": "TAS",
-    "sub_service": "WBU",
-    "title": "Bush Walkers Weather Alert"
-  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
