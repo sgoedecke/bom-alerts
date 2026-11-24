@@ -129,20 +129,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Western Australia"
   },
-  "IDY21060": {
-    "areas": [
-      "Head Office"
-    ],
-    "hazards": [],
-    "headline": "",
-    "id": "IDY21060",
-    "issued": "2026-11-21T11:49:17Z",
-    "service": "WSM",
-    "started": "2026-11-21T15:23:12Z",
-    "state": "AUS",
-    "sub_service": "WOW",
-    "title": "GALE WARNING 7 FOR SOUTHERN AREA"
-  },
   "IDY21070": {
     "areas": [
       "Head Office"
