@@ -57,6 +57,33 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Barcoo River"
   },
+  "IDQ20865": {
+    "areas": [
+      "Diamantina River",
+      "Diamantina River to Diamantina Lakes",
+      "Mills Creek at Oondooroo",
+      "Jessamine Creek at Aldingham",
+      "Western River at Apsley",
+      "Western River at Winton",
+      "Diamantina River at Elderslie",
+      "Diamantina River at Tulmur",
+      "Diamantina River at Diamantina Lakes",
+      "Diamantina River at Monkira",
+      "Diamantina River at Durrie Station",
+      "Diamantina River at Roseberth Station",
+      "Diamantina River at Birdsville Police Station",
+      "Diamantina River at Birdsville"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20865",
+    "issued": "2026-11-25T00:48:52Z",
+    "service": "HFW",
+    "started": "2026-11-25T03:02:18Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Flood Warning for the Diamantina River"
+  },
   "IDT20100": {
     "areas": [
       "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
