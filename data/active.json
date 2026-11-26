@@ -192,6 +192,27 @@
     "sub_service": "WFT",
     "title": "Initial Flood Watch for parts of the North West, North, and North East of Tasmania"
   },
+  "IDT21037": {
+    "areas": [
+      "North West Coast",
+      "Central North",
+      "North East",
+      "Midlands",
+      "Central Plateau",
+      "Western"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Heavy rainfall in the north during Saturday morning.",
+    "id": "IDT21037",
+    "issued": "2026-11-26T17:21:39Z",
+    "service": "WSW",
+    "started": "2026-11-26T17:43:47Z",
+    "state": "TAS",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
