@@ -139,6 +139,22 @@
     "sub_service": "WFL",
     "title": "Initial Flood Warning for the Diamantina River"
   },
+  "IDS20201": {
+    "areas": [
+      "Spencer Gulf"
+    ],
+    "hazards": [
+      "Strong Wind Warning"
+    ],
+    "headline": "",
+    "id": "IDS20201",
+    "issued": "2026-11-26T17:10:00Z",
+    "service": "WSM",
+    "started": "2026-11-26T17:43:47Z",
+    "state": "SA",
+    "sub_service": "WMS",
+    "title": "Marine Wind Warning Summary for South Australia"
+  },
   "IDT20100": {
     "areas": [
       "East of Flinders Island: Northern Tip of Flinders Island to St Helens Point"
