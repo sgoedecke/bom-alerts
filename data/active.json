@@ -50,6 +50,27 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Paroo River (QLD)"
   },
+  "IDQ20855": {
+    "areas": [
+      "Bulloo River",
+      "Bulloo River downstream of Quilpie",
+      "Bulloo River at Thargomindah",
+      "Blackwater Creek at Adavale",
+      "Bulloo River at Milroy (Manual)",
+      "Bulloo River at Quilpie",
+      "Bulloo River at South Comongin",
+      "Bulloo River at Autumnvale"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20855",
+    "issued": "2026-11-26T01:08:46Z",
+    "service": "HFW",
+    "started": "2026-11-26T02:13:40Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Bulloo River"
+  },
   "IDQ20860": {
     "areas": [
       "Thomson and Barcoo Rivers and Cooper Creek",
