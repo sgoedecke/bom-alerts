@@ -33,6 +33,23 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
+  "IDQ20850": {
+    "areas": [
+      "Paroo River (QLD)",
+      "Paroo River to Eulo",
+      "Paroo River at Eulo",
+      "Paroo River at Caiwarro"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20850",
+    "issued": "2026-11-26T01:28:04Z",
+    "service": "HFW",
+    "started": "2026-11-26T02:13:40Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Paroo River (QLD)"
+  },
   "IDQ20860": {
     "areas": [
       "Thomson and Barcoo Rivers and Cooper Creek",
