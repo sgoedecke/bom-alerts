@@ -232,6 +232,27 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV21037": {
+    "areas": [
+      "Northern Country",
+      "North Central",
+      "North East",
+      "Central",
+      "West and South Gippsland",
+      "East Gippsland"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL and DAMAGING WINDS"
+    ],
+    "headline": "Heavy rainfall and damaging winds across central and northeast areas early Saturday morning.",
+    "id": "IDV21037",
+    "issued": "2026-11-26T17:22:35Z",
+    "service": "WSW",
+    "started": "2026-11-26T17:43:47Z",
+    "state": "VIC",
+    "sub_service": "WSW",
+    "title": "Severe Weather Warning"
+  },
   "IDV35010": {
     "areas": [
       "Bunyip River and Dandenong Creek",
