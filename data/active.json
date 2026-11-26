@@ -171,6 +171,27 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT20625": {
+    "areas": [
+      "Northwest and Central Coastal Rivers",
+      "Forth River",
+      "Mersey River",
+      "Meander River",
+      "North Esk River",
+      "Tamar (Launceston)",
+      "Ringarooma River",
+      "North Coastal Rivers"
+    ],
+    "hazards": [],
+    "headline": "RIVER AND CREEK LEVEL RISES ARE LIKELY, AND AREAS OF MINOR FLOODING ARE POSSIBLE FROM FRIDAY NIGHT",
+    "id": "IDT20625",
+    "issued": "2026-11-26T03:53:54Z",
+    "service": "HFW",
+    "started": "2026-11-26T17:43:47Z",
+    "state": "TAS",
+    "sub_service": "WFT",
+    "title": "Initial Flood Watch for parts of the North West, North, and North East of Tasmania"
+  },
   "IDV20600": {
     "areas": [
       "West Coast: SA-VIC Border to Cape Otway",
