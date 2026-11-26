@@ -157,6 +157,28 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
+  "IDV35010": {
+    "areas": [
+      "Bunyip River and Dandenong Creek",
+      "Yarra River downstream of Warrandyte",
+      "Kiewa River",
+      "Ovens and King Rivers",
+      "Seven and Castle Creeks",
+      "Goulburn River Eildon to Seymour",
+      "Goulburn River downstream of Seymour",
+      "Campaspe River",
+      "Loddon River"
+    ],
+    "hazards": [],
+    "headline": "MINOR FLOODING POSSIBLE FROM SATURDAY MORNING",
+    "id": "IDV35010",
+    "issued": "2026-11-26T02:07:22Z",
+    "service": "HFW",
+    "started": "2026-11-26T02:13:40Z",
+    "state": "VIC",
+    "sub_service": "WFT",
+    "title": "Initial Flood Watch for parts of North West, Central and North East catchments"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
