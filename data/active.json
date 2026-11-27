@@ -284,6 +284,26 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Tasmania"
   },
+  "IDT20605": {
+    "areas": [
+      "Mersey River",
+      "Mersey River - Liena to Kimberley",
+      "Mersey River at Kimberley",
+      "Mersey River - Kimberley to Latrobe township",
+      "Mersey River at Latrobe Bridge",
+      "Mersey River at Liena",
+      "Mersey River at Shale Road"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDT20605",
+    "issued": "2026-11-27T03:50:20Z",
+    "service": "HFW",
+    "started": "2026-11-27T17:28:26Z",
+    "state": "TAS",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Mersey River"
+  },
   "IDT20625": {
     "areas": [
       "Northwest and Central Coastal Rivers",
