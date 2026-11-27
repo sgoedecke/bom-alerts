@@ -82,6 +82,30 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Warrego River (NSW)"
   },
+  "IDQ20809": {
+    "areas": [
+      "Bremer River and Warrill Creek",
+      "Warrill Creek",
+      "Warrill Creek at Harrisville",
+      "Warrill Creek at Amberley",
+      "Western Creek at Grandchester",
+      "Bremer River at Rosewood",
+      "Bremer River at Five Mile Bridge",
+      "Bremer River at Walloon",
+      "Warrill Creek at Kalbar Weir HW",
+      "Warrill Creek at Kalbar",
+      "Bremer River at Ipswich"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDQ20809",
+    "issued": "2026-11-27T13:59:22Z",
+    "service": "HFW",
+    "started": "2026-11-27T17:28:26Z",
+    "state": "QLD",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for Warrill Creek"
+  },
   "IDQ20850": {
     "areas": [
       "Paroo River (QLD)",
