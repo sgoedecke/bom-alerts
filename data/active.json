@@ -447,6 +447,42 @@
     "sub_service": "WFT",
     "title": "Initial Flood Watch for parts of North West, Central and North East catchments"
   },
+  "IDV36810": {
+    "areas": [
+      "Loddon River",
+      "Loddon River Laanecoorie to Loddon Weir",
+      "Loddon River at Laanecoorie Reservoir (TW)",
+      "Loddon River at Vaughan",
+      "Larni Barramal Yaluk at Yandoit",
+      "Muckleford Creek at Muckleford North",
+      "Loddon River at Newstead",
+      "Joyces Creek at Strathlea",
+      "Middle Creek at Rodborough",
+      "Loddon River at Cairn Curran Reservoir (TW)",
+      "Creswick Creek at Clunes",
+      "Birch Creek at Smeaton",
+      "Tullaroop Creek at Clunes",
+      "Tullaroop Creek at Tullaroop Reservoir (HG)",
+      "Tullaroop Creek at Tullaroop Reservoir (TW)",
+      "Mccallums Creek at Carisbrook",
+      "Bet Bet Creek at Bet Bet",
+      "Loddon River at Laanecoorie Reservoir (HG)",
+      "Loddon River at Serpentine Weir",
+      "Loddon River at Loddon Weir (TW)",
+      "Loddon River at Appin South",
+      "Loddon River at Kerang (Murray Valley Highway Bridge)",
+      "Mount Hope Creek at Mitiamo"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDV36810",
+    "issued": "2026-11-27T14:38:48Z",
+    "service": "HFW",
+    "started": "2026-11-27T17:28:26Z",
+    "state": "VIC",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Loddon River"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
