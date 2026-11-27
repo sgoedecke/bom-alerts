@@ -304,6 +304,28 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Mersey River"
   },
+  "IDT20609": {
+    "areas": [
+      "Meander River",
+      "Meander River - Deloraine to Strathbridge",
+      "Meander River at Deloraine Railway Bridge",
+      "Meander River below Strathbridge",
+      "Meander River at Strathbridge",
+      "Meander River at Meander",
+      "Liffey River at Upstream West Channel",
+      "Liffey River at Carrick",
+      "Meander River at Westwood Bridge"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDT20609",
+    "issued": "2026-11-27T03:54:23Z",
+    "service": "HFW",
+    "started": "2026-11-27T17:28:26Z",
+    "state": "TAS",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Meander River"
+  },
   "IDT20625": {
     "areas": [
       "Northwest and Central Coastal Rivers",
