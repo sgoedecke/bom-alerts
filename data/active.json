@@ -270,23 +270,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for Victoria"
   },
-  "IDV21033": {
-    "areas": [
-      "Mallee",
-      "Wimmera"
-    ],
-    "hazards": [
-      "HEAVY, LOCALLY INTENSE RAINFALL"
-    ],
-    "headline": "INTENSE RAINFALL NEAR WARRACKNABEAL THIS AFTERNOON.",
-    "id": "IDV21033",
-    "issued": "2026-11-27T01:48:12Z",
-    "service": "WSW",
-    "started": "2026-11-27T02:11:55Z",
-    "state": "VIC",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDV21037": {
     "areas": [
       "Northern Country",
