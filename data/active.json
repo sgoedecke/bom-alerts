@@ -154,6 +154,29 @@
     "sub_service": "WFL",
     "title": "Initial Flood Warning for the Diamantina River"
   },
+  "IDQ20900": {
+    "areas": [
+      "Lower Brisbane River",
+      "Logan and Albert Rivers",
+      "Macintyre River",
+      "Weir River",
+      "Moonie River",
+      "Condamine Rivers",
+      "Balonne River",
+      "The Big Warrambool River",
+      "Wallam and Mungallala Creeks",
+      "Warrego River (QLD)"
+    ],
+    "hazards": [],
+    "headline": "MINOR FLOODING POSSIBLE IN PARTS OF THE SOUTH AND SOUTH EAST FROM LATE FRIDAY",
+    "id": "IDQ20900",
+    "issued": "2026-11-27T00:21:12Z",
+    "service": "HFW",
+    "started": "2026-11-27T02:11:55Z",
+    "state": "QLD",
+    "sub_service": "WFT",
+    "title": "Initial Flood Watch for parts of Southern and South East Queensland"
+  },
   "IDS20201": {
     "areas": [
       "Spencer Gulf"
