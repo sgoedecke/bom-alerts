@@ -33,6 +33,21 @@
     "sub_service": "WSW",
     "title": "Severe Weather Warning"
   },
+  "IDN36503": {
+    "areas": [
+      "Upper Murray and Mitta Mitta Rivers",
+      "Upper Macintyre River"
+    ],
+    "hazards": [],
+    "headline": "MINOR FLOODING POSSIBLE IN THE UPPER MURRAY AND UPPER MACINTYRE RIVERS FROM SUNDAY",
+    "id": "IDN36503",
+    "issued": "2026-11-27T01:51:09Z",
+    "service": "HFW",
+    "started": "2026-11-27T02:11:55Z",
+    "state": "NSW",
+    "sub_service": "WFT",
+    "title": "Initial Flood Watch for the Upper Murray and Upper Macintyre River Catchments"
+  },
   "IDN36631": {
     "areas": [
       "Warrego River (NSW)",
