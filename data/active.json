@@ -308,6 +308,23 @@
     "sub_service": "WSW",
     "title": "Severe Weather Warning"
   },
+  "IDV29000": {
+    "areas": [
+      "North Central",
+      "North East"
+    ],
+    "hazards": [
+      "Warning to Sheep Graziers"
+    ],
+    "headline": "",
+    "id": "IDV29000",
+    "issued": "2026-11-26T23:52:01Z",
+    "service": "WSP",
+    "started": "2026-11-27T02:11:55Z",
+    "state": "VIC",
+    "sub_service": "WSG",
+    "title": "Warning to Sheep Graziers"
+  },
   "IDV35010": {
     "areas": [
       "Bunyip River and Dandenong Creek",
