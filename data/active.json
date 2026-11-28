@@ -48,6 +48,25 @@
     "sub_service": "WFT",
     "title": "Initial Flood Watch for the Upper Murray and Upper Macintyre River Catchments"
   },
+  "IDN36632": {
+    "areas": [
+      "Paroo River (NSW)",
+      "Paroo River at Willara Crossing",
+      "Cuttaburra Channel at Turra",
+      "Paroo River at Eulo",
+      "Paroo River at Caiwarro",
+      "Paroo River at Hungerford"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDN36632",
+    "issued": "2026-11-27T23:40:13Z",
+    "service": "HFW",
+    "started": "2026-11-28T01:59:49Z",
+    "state": "NSW",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Paroo River (NSW)"
+  },
   "IDQ20809": {
     "areas": [
       "Bremer River and Warrill Creek",
