@@ -16,23 +16,6 @@
     "sub_service": "WMS",
     "title": "Marine Wind Warning Summary for New South Wales"
   },
-  "IDN21033": {
-    "areas": [
-      "Riverina",
-      "Lower Western"
-    ],
-    "hazards": [
-      "HEAVY RAINFALL"
-    ],
-    "headline": "Heavy rainfall with thunderstorms about southern inland NSW",
-    "id": "IDN21033",
-    "issued": "2026-11-27T16:25:19Z",
-    "service": "WSW",
-    "started": "2026-11-27T17:28:26Z",
-    "state": "NSW",
-    "sub_service": "WST",
-    "title": "Severe Thunderstorm Warning"
-  },
   "IDN21037": {
     "areas": [
       "South West Slopes",
