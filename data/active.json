@@ -448,6 +448,38 @@
     "sub_service": "WFT",
     "title": "Initial Flood Watch for parts of North West, Central and North East catchments"
   },
+  "IDV36390": {
+    "areas": [
+      "Werribee River",
+      "Upper Werribee River",
+      "Werribee River at Ballan",
+      "Lerderderg River at O'Briens Crossing (DS Sardine Creek)",
+      "Lower Werribee River - downstream of Lerderderg River",
+      "Werribee River at Melton Reservoir (TW)",
+      "Werribee River at Werribee (Cottrell St)",
+      "Werribee River at Ballan (Spencer Rd)",
+      "Korjamnunnip Creek at Greendale",
+      "Pykes Creek at Pykes Creek Reservoir (HG)",
+      "Werribee River at Bacchus Marsh",
+      "Parwan Creek at Maddingley",
+      "Lerderderg River US Goodman Creek",
+      "Pyrites Creek at Merrimu Reservoir (HG)",
+      "Werribee River at Melton Reservoir (HG)",
+      "Toolern Creek at Melton South",
+      "Werribee River at Cobbledicks (Ford Rd)",
+      "Werribee River at Wyndham Vale",
+      "Lollypop Creek at Werribee (Bulban Rd)"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDV36390",
+    "issued": "2026-11-27T20:56:06Z",
+    "service": "HFW",
+    "started": "2026-11-28T01:59:49Z",
+    "state": "VIC",
+    "sub_service": "WFL",
+    "title": "Initial Minor Flood Warning for the Werribee River"
+  },
   "IDV36810": {
     "areas": [
       "Loddon River",
