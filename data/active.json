@@ -516,6 +516,26 @@
     "sub_service": "WFL",
     "title": "Initial Minor Flood Warning for the Loddon River"
   },
+  "IDV36820": {
+    "areas": [
+      "Avoca River",
+      "Avoca River to Charlton Town",
+      "Avoca River at Charlton Town",
+      "Avoca River at Archdale Junction",
+      "Avoca River at Yawong Weir",
+      "Avoca River at Charlton (Downstream)",
+      "Avoca River at Quambatook"
+    ],
+    "hazards": [],
+    "headline": "",
+    "id": "IDV36820",
+    "issued": "2026-11-28T00:18:10Z",
+    "service": "HFW",
+    "started": "2026-11-28T01:59:49Z",
+    "state": "VIC",
+    "sub_service": "WFL",
+    "title": "Moderate Flood Warning for the Avoca River"
+  },
   "IDW20100": {
     "areas": [
       "Leeuwin Coast: Cape Naturaliste to Walpole",
