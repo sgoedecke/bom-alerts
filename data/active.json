@@ -237,6 +237,22 @@
     "sub_service": "WFT",
     "title": "Initial Flood Watch for parts of Southern and South East Queensland"
   },
+  "IDQ21033": {
+    "areas": [
+      "Southeast Coast"
+    ],
+    "hazards": [
+      "HEAVY RAINFALL"
+    ],
+    "headline": "Slow-moving showers and storms producing heavy rainfall",
+    "id": "IDQ21033",
+    "issued": "2026-11-28T00:46:29Z",
+    "service": "WSW",
+    "started": "2026-11-28T01:59:49Z",
+    "state": "QLD",
+    "sub_service": "WST",
+    "title": "Severe Thunderstorm Warning"
+  },
   "IDS20201": {
     "areas": [
       "Spencer Gulf"
